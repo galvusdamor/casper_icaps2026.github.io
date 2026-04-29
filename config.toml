@@ -118,18 +118,18 @@ languageCode = 'en_US'
 #    url = "/attending/visit_melbourne"
 #    parent = "attending"
 #    weight = 50
-#  [[menu.main]]
-#    identifier = "travel"
-#    name = "Travel Information"
-#    url = "/attending/travel"
-#    parent = "attending"
-#    weight = 20
+ [[menu.main]]
+   identifier = "travel"
+   name = "Travel Information"
+   url = "/attending/travel"
+   parent = "attending"
+   weight = 30
   [[menu.main]]
     identifier = "registration"
     name = "Registration"
     url = "/attending/registration"
     parent = "attending"
-    weight = 30
+    weight = 40
 #  [[menu.main]]
 #    identifier = "info"
 #    name = "General Info"
