@@ -65,7 +65,7 @@ Stylianos Loukas Vasileiou, Antonio Rago, Maria Vanina Martinez, and William Yeo
 
 ## Important Dates
 
-* **Paper submission deadline: May 10, 2026 UTC-12**
+* **Paper submission deadline: ~~May 10~~ May 17, 2026 UTC-12**
 * Notification of acceptance: June 10, 2026 UTC-12
 * Camera-ready paper submissions: TBD
 

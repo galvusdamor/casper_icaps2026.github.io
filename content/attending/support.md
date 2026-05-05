@@ -32,4 +32,4 @@ The form requires the following information:
 
 **The deadline for applying is April 13, 2026 (AoE)**. 
 
-Notification is on April 21  (2 weeks before the early registration deadline). Scholarships will be provided to you as (partial) **reimbursement of travel and registration expenses** after the conference or as a **discounted registration fee**.
+Notification **originally on April 21 - now postponed by one week**. Scholarships will be provided to you as (partial) **reimbursement of travel and registration expenses** after the conference or as a **discounted registration fee**.
