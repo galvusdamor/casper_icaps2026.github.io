@@ -676,7 +676,7 @@ draft: false
 <div class="session-header">Session 7A: Agentic AI, Gen AI, and Foundation Models for Planning</div>
 
 <div class="paper-item">
-<strong>Continual Learning for Fast, High-Quality Plan Generation</strong><br/>
+<strong>Self-Improvement for Fast, High-Quality Plan Generation</strong><br/>
 <em>Robert Gieselmann, Henrike von Huelsen, Mihai Samson, Marie-Christine Meyer, Dariusz Piotrowski, Oleksandr Radomskyi, Justin Okamoto, Turan Gojayev, Michael Painter, Gavin Brown, Federico Pecora and Jeremy Wyatt</em>
 </div>
 
