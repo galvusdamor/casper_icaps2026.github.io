@@ -22,7 +22,7 @@ draft: false
 
 <style>
 .session-block {
-    margin-bottom: 30px;
+    margin-bottom: 5px;
     border-left: 4px solid #f5821f;
     padding-left: 15px;
 }
@@ -39,18 +39,6 @@ draft: false
 }
 .paper-item:last-child {
     border-bottom: none;
-}
-.session-break {
-    border: none;
-    border-top: 2px solid #bbb;
-    margin: 20px 0;
-}
-.session-break-full {
-    grid-column: 1 / -1;
-    border: none;
-    border-top: 2px solid #bbb;
-    margin: 0;
-    width: 100%;
 }
 .parallel-sessions {
     display: grid;
@@ -145,8 +133,6 @@ draft: false
 
 </div>
 </div>
-
-<hr class="session-break-full"/>
 
 <div class="parallel-session">
 <div class="session-block">
@@ -253,8 +239,6 @@ draft: false
 </div>
 </div>
 
-<hr class="session-break-full"/>
-
 <div class="parallel-session">
 <div class="session-block">
 
@@ -350,8 +334,6 @@ draft: false
 </div>
 </div>
 
-<hr class="session-break-full"/>
-
 <div class="parallel-session">
 <div class="session-block">
 
@@ -445,8 +427,6 @@ draft: false
 
 </div>
 </div>
-
-<hr class="session-break-full"/>
 
 <div class="parallel-session">
 <div class="session-block">
