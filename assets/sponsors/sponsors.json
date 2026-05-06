@@ -4,15 +4,32 @@
 			"rank": "Platinum Partners",
 			"list": [
 				{
-					"logo": "/img/partners/OPTIMA-land.svg",
+					"logo": "/img/partners/nsf.svg",
 					"height": "-1",
 					"width": "550",
-					"link": "https://optima.org.au/"
+					"link": "https://www.nsf.gov/"
 				}
 			]
 		},
 		{
 			"rank": "Gold Partners",
+			"list": [
+				{
+					"logo": "/img/partners/failte.png",
+					"height": "-1",
+					"width": "150",
+					"link": "https://www.failteireland.ie/"
+				},
+				{
+					"logo": "/img/partners/eaton.jpg",
+					"height": "-1",
+					"width": "250",
+					"link": "http://www.eaton.com/"
+				}
+			]
+		},
+		{
+			"rank": "Silver Partners",
 			"list": [
 				{
 					"logo": "/img/partners/dsmith.jpg",
@@ -21,38 +38,15 @@
 					"link": "http://psresearch.xyz"
 				},
 				{
-					"logo": "/img/partners/UoM.png",
-					"height": "-1",
-					"width": "150",
-					"link": "https://cis.unimelb.edu.au/"
-				},
-				{
-					"logo": "/img/partners/logo-desktop.svg",
-					"height": "-1",
-					"width": "250",
-					"link": "https://www.nsf.gov/"
-				}
-			]
-		},
-		{
-			"rank": "Silver Partners",
-			"list": [
-				{
 					"logo": "/img/partners/aij.jpeg",
 					"height": "-1",
 					"width": "150",
 					"link": "https://aij.ijcai.org"
-				},
-				{
-					"logo": "/img/partners/LearningMachinesLogo_V2.jpg",
-					"height": "-1",
-					"width": "150",
-					"link": "https://www.learningmachines.au/"
 				}
 			]
 		},
 		{
-			"rank": "Patron",
+			"rank": "Bronze Partners",
 			"list": [
 				{
 					"logo": "/img/partners/jpmorgan.png",
@@ -61,10 +55,33 @@
 					"link": "https://www.jpmorgan.com"
 				},
 				{
-					"logo": "/img/partners/gurobi.png",
+					"logo": "/img/partners/intrinsic.svg",
 					"height": "-1",
 					"width": "280",
-					"link": "https://www.gurobi.com/academia/academic-program-and-licenses/"
+					"link": "https://www.intrinsic.ai/"
+				},
+				{
+					"logo": "/img/partners/hexaly.svg",
+					"height": "-1",
+					"width": "280",
+					"link": "https://www.hexaly.com/"
+				},
+				{
+					"logo": "/img/partners/sift.svg",
+					"height": "-1",
+					"width": "280",
+					"link": "https://www.sift.net/"
+				}
+			]
+		},
+		{
+			"rank": "Invited Speaker Support",
+			"list": [
+				{
+					"logo": "/img/partners/eurai.png",
+					"height": "-1",
+					"width": "280",
+					"link": "https://www.eurai.org/"
 				}
 			]
 		}
