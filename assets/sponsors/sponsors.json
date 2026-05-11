@@ -6,7 +6,7 @@
 				{
 					"logo": "/img/partners/nsf.svg",
 					"height": "-1",
-					"width": "550",
+					"width": "280",
 					"link": "https://www.nsf.gov/"
 				}
 			]
@@ -51,26 +51,32 @@
 				{
 					"logo": "/img/partners/jpmorgan.png",
 					"height": "-1",
-					"width": "280",
+					"width": "260",
 					"link": "https://www.jpmorgan.com"
 				},
 				{
 					"logo": "/img/partners/intrinsic.svg",
 					"height": "-1",
-					"width": "280",
+					"width": "220",
 					"link": "https://www.intrinsic.ai/"
 				},
 				{
 					"logo": "/img/partners/hexaly.svg",
 					"height": "-1",
-					"width": "280",
+					"width": "200",
 					"link": "https://www.hexaly.com/"
 				},
 				{
 					"logo": "/img/partners/sift.svg",
 					"height": "-1",
-					"width": "280",
+					"width": "220",
 					"link": "https://www.sift.net/"
+				},
+				{
+					"logo": "/img/partners/gba3a.png",
+					"height": "-1",
+					"width": "240",
+					"link": ""
 				}
 			]
 		},
@@ -80,7 +86,7 @@
 				{
 					"logo": "/img/partners/eurai.png",
 					"height": "-1",
-					"width": "280",
+					"width": "200",
 					"link": "https://www.eurai.org/"
 				}
 			]
