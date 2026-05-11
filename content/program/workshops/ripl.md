@@ -46,7 +46,7 @@ Irreversible actions/no free exploration: settings where trial-and-error is fund
 
 ## Important Dates
 
-- Paper submission deadline: May 15, 2026 (AoE)
+- Paper submission deadline: ~~May 15, 2026 (AoE)~~ <span style="color:red">**Extended deadline: May 22, 2026 (AoE)**</span>.
 - Paper acceptance notification: June 9, 2026
 
 
