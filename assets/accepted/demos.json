@@ -1,0 +1,50 @@
+[
+  {
+    "title": "An Open-Source Framework for Closed-Loop Multi-UAV Planning and Execution",
+    "authors": "Maximilian Schnell, Nico Michel, Björn Döschl, Kai Sommer and Jane Jean Kiam"
+  },
+  {
+    "title": "AMPLIFIED: A Modular Toolchain to Benchmark Robotic Planning and Execution Tools",
+    "authors": "Baptiste Pelletier, Alexandre Albore, Jean Jane Kiam, Kai Sommer and Caroline Ponzoni Carvalho Chanel"
+  },
+  {
+    "title": "Solving Scaleable POMDP Mazes with Parallel Temporally Extended Task Sequences",
+    "authors": "Andy Edmondson and Ron Petrick"
+  },
+  {
+    "title": "Janeway: A Temporally Flexible Plan Executive",
+    "authors": "Jake Olkin, Ian Lee, Kristoff Misquita and Brian Williams"
+  },
+  {
+    "title": "Dynamic Scene Recreation Pipeline for Planning Environments",
+    "authors": "Albaraa Othman, Prab Singh, Emanuele De Pellegrin, Maria Koskinopoulou and Ron Petrick"
+  },
+  {
+    "title": "i-EXAM: Instructable and Explainable Attack Connectivity Graph Modeler",
+    "authors": "Rakesh Podder, Wadia Ganim, Sarath Sreedharan, Indrajit Ray and Indrakshi Ray"
+  },
+  {
+    "title": "PANSim: A System for Simulating and Visualizing Planning Against Nature",
+    "authors": "Erol Medenčević, Jakub Med and Lukas Chrpa"
+  },
+  {
+    "title": "LiveSpec: A Tiered Runtime for Planning under Live-Editable Constraints",
+    "authors": "Vedant Khandelwal, Prateek Biswas and Amit Sheth"
+  },
+  {
+    "title": "PocketSPAR: On-Device Visual Planning with Aligned Representations and Learned Heuristic Search",
+    "authors": "Misagh Soltani and Forest Agostinelli"
+  },
+  {
+    "title": "A Discord-Based System for Human-in-the-Loop PDDL Modeling, Solving, and Validation through Natural Language",
+    "authors": "Jawad Ahmed, Adam Neto, Marcus Tantakoun and Christian Muise"
+  },
+  {
+    "title": "LAPI(S)^2: Language to Action Planning via Iterative Schema Synthesis",
+    "authors": "Emanuele Musumeci, Abdel Hakim Drid, Francesco Cassini, Vincenzo Suriani and Daniele Nardi"
+  },
+  {
+    "title": "MonkeyBot: A Planning System for Adhesion-Free Multi-Limb Robotic Climbing",
+    "authors": "Evgeny Mishlyakov, Mikhail Gruntov, Alexander Shleyfman and Erez Karpas"
+  }
+]
