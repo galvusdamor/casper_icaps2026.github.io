@@ -278,12 +278,12 @@ languageCode = 'en_US'
 #    url = "/program/awards"
 #    parent = "program"
 #    weight = 20
-# [[menu.main]]
-#   identifier = "demos"
-#    name = "Demos"
-#    url = "/program/demos"
-#    parent = "program"
-#    weight = 20
+[[menu.main]]
+  identifier = "demos"
+  name = "Demos"
+  url = "/program/demos"
+  parent = "program"
+  weight = 20
 #  [[menu.main]]
 #    identifier = "doctoral-consortium"
 #    name = "Doctoral Consortium"

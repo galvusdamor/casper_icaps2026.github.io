@@ -1,0 +1,44 @@
+{{ $file := .Get 0 }}
+{{ $local := resources.Get $file }}
+{{ $data := $local | transform.Unmarshal }}
+
+{{ range $demo := $data }}
+
+<div style="width: 100%; margin: 0; padding: 1%;">
+  <h4 style="color:black;"><strong>{{ $demo.title }}</strong></h4>
+
+  {{ if $demo.image }}
+  {{ if $demo.link }}
+  <a href="{{ $demo.link }}" target="_blank">
+  {{ end }}
+  <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align: middle;">
+    <img style="width: 100%; border-radius: 3%; vertical-align: middle;" src="{{ $demo.image }}" />
+  </div>
+  {{ if $demo.link }}
+  </a>
+  {{ end }}
+  {{ end }}
+
+  <div style="display: inline-block; {{ if $demo.image }}width: 68%;{{ else }}width: 98%;{{ end }} padding: 1%; vertical-align: middle;">
+    <div style="margin: 0; padding: 0; padding-left: 2%;">
+
+      {{ if $demo.abstract }}
+      <p>{{ $demo.abstract }}</p>
+      {{ end }}
+
+      <b>Authors:</b> {{ $demo.authors }}
+
+      {{ if $demo.videos }}
+      <br><br>
+      {{ range $demo.videos }}
+      <a href="{{ .url }}">{{ .label }}</a>&nbsp;
+      {{ end }}
+      {{ end }}
+
+    </div>
+  </div>
+</div>
+
+<hr>
+
+{{ end }}
