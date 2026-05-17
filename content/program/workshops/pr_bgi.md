@@ -53,7 +53,7 @@ Papers must be prepared according to the instructions for ICAPS 2026 (in AAAI fo
 
 ## Important Dates
 
-* **Paper submission deadline: May 18, 2026 UTC-12**
+* **Paper submission deadline: ~~May 18~~ May 25, 2026 UTC-12**
 * Notification of acceptance: June 10, 2026 UTC-12
 * Camera-ready paper submissions: TBD
 
