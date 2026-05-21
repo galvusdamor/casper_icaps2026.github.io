@@ -58,7 +58,9 @@ Important goals of the workshop are the discussion of solutions, results, open i
 Note that at the date of the submission deadline, all papers need to be registered, which includes all relevant information such as title, abstract, authors, and kind of paper (long, short, ...). 
 
 ## Invited Talk by [NICK HAWES](https://eng.ox.ac.uk/people/nick-hawes)
-![Nick](nick-hawes-happy.jpeg){width=200}
+![Nick](nick-hawes-happy.jpeg)
+
+<img src="nick-hawes-happy.jpeg" alt="Alt Text" width="300" height="200">
 
 Title: Long-Range Underwater Glider Planning Under Uncertainty
 
