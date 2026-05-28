@@ -1,366 +1,502 @@
 [
  {
   "authors": "Pascal Lauer, Yifan Zhang, Patrik Haslum and Pascal Bercher",
-  "title": "I Always Told My Mom That Order Is Overrated: Unordered HTN Planning is in PSPACE and Models Problems Beyond STRIPS"
+  "title": "I Always Told My Mom That Order Is Overrated: Unordered HTN Planning is in PSPACE and Models Problems Beyond STRIPS",
+  "track": "main"
  },
  {
   "authors": "Akmaral Moldagalieva, Keisuke Okumura, Amanda Prorok and Wolfgang Hoenig",
-  "title": "db-LaCAM: Fast and Scalable Multi-Robot Kinodynamic Motion Planning with Discontinuity-Bounded Search and Lightweight MAPF"
+  "title": "db-LaCAM: Fast and Scalable Multi-Robot Kinodynamic Motion Planning with Discontinuity-Bounded Search and Lightweight MAPF",
+  "track": "main"
  },
  {
   "authors": "Takahiro Suzuki and Keisuke Okumura",
-  "title": "Polynomial-time Configuration Generator for Connected Unlabeled Multi-Agent Pathfinding"
+  "title": "Polynomial-time Configuration Generator for Connected Unlabeled Multi-Agent Pathfinding",
+  "track": "main"
  },
  {
   "authors": "Kausik Lakkaraju, Sunandita Patra, Parisa Zehtabi and Biplav Srivastava",
-  "title": "Rating Composite AI Models for Robustness Through Probabilistic Planning"
+  "title": "Rating Composite AI Models for Robustness Through Probabilistic Planning",
+  "track": "main"
  },
  {
   "authors": "Omer Idgar, Dor Atzmon and Ariel Felner",
-  "title": "LaCAM* Variants for Minimizing Makespan in Multi-Agent Path Finding"
+  "title": "LaCAM* Variants for Minimizing Makespan in Multi-Agent Path Finding",
+  "track": "main"
  },
  {
   "authors": "Lukas Chrpa and Erez Karpas",
-  "title": "Complete and Optimal Robust Planning against Nature"
+  "title": "Complete and Optimal Robust Planning against Nature",
+  "track": "main"
  },
  {
   "authors": "Harrison Oates and Pascal Bercher",
-  "title": "Relaxing is Hard: Complexity Results for Lifted Partial Order Causal Link Planning"
+  "title": "Relaxing is Hard: Complexity Results for Lifted Partial Order Causal Link Planning",
+  "track": "main"
  },
  {
   "authors": "Imko Marijnissen, Christopher Beck, Emir Demirović and Ryo Kuroiwa",
-  "title": "Domain-Independent Dynamic Programming with Constraint Propagation"
+  "title": "Domain-Independent Dynamic Programming with Constraint Propagation",
+  "track": "main"
  },
  {
   "authors": "Robin Schmöcker, Alexander Dockhorn and Bodo Rosenhahn",
-  "title": "AUPO - Abstracted until proven otherwise: A reward distribution based abstraction algorithm"
+  "title": "AUPO - Abstracted until proven otherwise: A reward distribution based abstraction algorithm",
+  "track": "main"
  },
  {
   "authors": "Janaka Brahmanage and Akshat Kumar",
-  "title": "Beyond Hard Constraints: Budget-Conditioned Reachability For Safe Offline Reinforcement Learning"
+  "title": "Beyond Hard Constraints: Budget-Conditioned Reachability For Safe Offline Reinforcement Learning",
+  "track": "main"
  },
  {
   "authors": "Runhao Liu, Ziming Chen, You Li and Peng Zhang",
-  "title": "Robust Crop Planning under Uncertainty: Aligning Economic Optimality with Agronomic Sustainability"
+  "title": "Robust Crop Planning under Uncertainty: Aligning Economic Optimality with Agronomic Sustainability",
+  "track": "main"
  },
  {
   "authors": "Johannes Schmalz and Chaahat Jain",
-  "title": "Algorithms for Deciding the Safety of States in Fully Observable Non-deterministic Problems"
+  "title": "Algorithms for Deciding the Safety of States in Fully Observable Non-deterministic Problems",
+  "track": "main"
  },
  {
   "authors": "Mikoto Kudo, Takumi Tanabe, Akifumi Wachi and Youhei Akimoto",
-  "title": "Sample-Efficient Hypergradient Estimation for Decentralized Bi-Level Reinforcement Learning"
+  "title": "Sample-Efficient Hypergradient Estimation for Decentralized Bi-Level Reinforcement Learning",
+  "track": "main"
  },
  {
   "authors": "Huanghua Sheng and Pascal Bercher",
-  "title": "Complexity Results for Fixing Classical Models Using LTL to Express Which Solutions Are (Un)Desired"
+  "title": "Complexity Results for Fixing Classical Models Using LTL to Express Which Solutions Are (Un)Desired",
+  "track": "main"
  },
  {
   "authors": "Arash Haratian, Arnaud Lequen, Daniel Gnad and Jendrik Seipp",
-  "title": "Domain Model Acquisition From Binary Traces"
+  "title": "Domain Model Acquisition From Binary Traces",
+  "track": "main"
  },
  {
   "authors": "Robert Gieselmann, Henrike von Huelsen, Mihai Samson, Marie-Christine Meyer, Dariusz Piotrowski, Oleksandr Radomskyi, Justin Okamoto, Turan Gojayev, Michael Painter, Gavin Brown, Federico Pecora and Jeremy Wyatt",
-  "title": "Self-Improvement for Fast, High-Quality Plan Generation"
+  "title": "Self-Improvement for Fast, High-Quality Plan Generation",
+  "track": "main"
  },
  {
   "authors": "Cameron Allen, Anita de Mello Koch, Harsha Kokel, George Konidaris and Michael Katz",
-  "title": "Simplifying Planning Tasks with Fact-Level Relevance Analysis"
+  "title": "Simplifying Planning Tasks with Fact-Level Relevance Analysis",
+  "track": "main"
  },
  {
   "authors": "Alex Zhang, Jackson Craig and Lara Waldrop",
-  "title": "Deep RL for Fast Long-Horizon Operations Scheduling on NASA’s Carruthers Geocorona Observatory Mission"
+  "title": "Deep RL for Fast Long-Horizon Operations Scheduling on NASA’s Carruthers Geocorona Observatory Mission",
+  "track": "main"
  },
  {
   "authors": "Michael Katz, Harsha Kokel, Kavitha Srinivas and Shirin Sohrabi",
-  "title": "Planning in the LLM Era: Building for Reliability and Efficiency"
+  "title": "Planning in the LLM Era: Building for Reliability and Efficiency",
+  "track": "main"
  },
  {
   "authors": "Daniel Cao, Michael Katz, Harsha Kokel, Kavitha Srinivas and Shirin Sohrabi",
-  "title": "Automating Thought of Search: A Journey Towards Soundness and Completeness"
+  "title": "Automating Thought of Search: A Journey Towards Soundness and Completeness",
+  "track": "main"
  },
  {
   "authors": "Viraj Parimi and Brian Williams",
-  "title": "Risk-Bounded Multi-Agent Visual Navigation via Iterative Risk Allocation"
+  "title": "Risk-Bounded Multi-Agent Visual Navigation via Iterative Risk Allocation",
+  "track": "main"
  },
  {
   "authors": "Yosuke Fujisawa, Yusaku Wakasugi, Kazuya Nakazawa, Ryo Matsubara and Toshiharu Sugawara",
-  "title": "Dynamic Shelf Arrangement and Task Assignment with Stable Matching for Multi-Agent Pickup and Delivery with Multi-Item Packing Problem"
- },
- {
-  "authors": "Xuerui Wang, Guangyu Ren, Tianhong Dai, Bintao Hu, Shuangyao Huang, Wenzhang Zhang and Hengyan Liu",
-  "title": "ACDC: Adaptive Curriculum Planning with Dynamic Contrastive Control for Goal-Conditioned Reinforcement Learning in Robotic Manipulation"
+  "title": "Dynamic Shelf Arrangement and Task Assignment with Stable Matching for Multi-Agent Pickup and Delivery with Multi-Item Packing Problem",
+  "track": "main"
  },
  {
   "authors": "Yuanjun Li, Bin Zhang, Hao Chen, Zhouyang Jiang, Dapeng Li and Zhiwei Xu",
-  "title": "QSIM: Mitigating Overestimation in Multi-Agent Reinforcement Learning via Action Similarity Weighted Q-Learning"
+  "title": "QSIM: Mitigating Overestimation in Multi-Agent Reinforcement Learning via Action Similarity Weighted Q-Learning",
+  "track": "main"
  },
  {
   "authors": "Jana Vatter, Ruben Mayer, Hans-Arno Jacobsen, Horst Samulowitz and Michael Katz",
-  "title": "Beyond Message Passing: Modern GNN Architectures for Online Planner Selection"
+  "title": "Beyond Message Passing: Modern GNN Architectures for Online Planner Selection",
+  "track": "main"
  },
  {
   "authors": "Giacomo Rosa, Jean Honorio, Nir Lipovetzky and Sebastian Sardina",
-  "title": "Planning as Goal Recognition: Deriving Heuristics from Intention Models"
+  "title": "Planning as Goal Recognition: Deriving Heuristics from Intention Models",
+  "track": "main"
  },
  {
   "authors": "Chuyin Peng, Feng-Feng Wei and Wei-Neng Chen",
-  "title": "H-ANTS: Hierarchical Ant System with Insert-and-Prune Charging for Capacitated Electric Vehicle Routing"
+  "title": "H-ANTS: Hierarchical Ant System with Insert-and-Prune Charging for Capacitated Electric Vehicle Routing",
+  "track": "main"
  },
  {
   "authors": "Giuseppe De Giacomo, Yves Lespérance, Gianmarco Parretti, Fabio Patrizi and Moshe Y. Vardi",
-  "title": "Incremental LTLf Synthesis"
+  "title": "Incremental LTLf Synthesis",
+  "track": "main"
  },
  {
   "authors": "Andrew Murray, Danial Dervovic, Alberto Pozanco and Michael Cashmore",
-  "title": "GenePlan: Evolving Better Generalized PDDL Plans using Large Language Models"
+  "title": "GenePlan: Evolving Better Generalized PDDL Plans using Large Language Models",
+  "track": "main"
  },
  {
   "authors": "Elisa Tosello, Arthur Bit-Monnot, Davide Lusuardi, Alessandro Valentini and Andrea Micheli",
-  "title": "Interleaving Scheduling and Motion Planning with Incremental Learning of Symbolic Space-Time Motion Abstractions"
+  "title": "Interleaving Scheduling and Motion Planning with Incremental Learning of Symbolic Space-Time Motion Abstractions",
+  "track": "main"
  },
  {
   "authors": "Yan Yang, Mingxuan Jing and Yuquan Wu",
-  "title": "MO-VLA: Preference Adaptation for Vision-Language-Action Models via Multi-Objective Reinforcement Learning"
+  "title": "MO-VLA: Preference Adaptation for Vision-Language-Action Models via Multi-Objective Reinforcement Learning",
+  "track": "main"
  },
  {
   "authors": "Xiang Li, Bikun Wang, John Zhang and Jianjun Wang",
-  "title": "Temporally Decoupled Diffusion Planning for Autonomous Driving"
+  "title": "Temporally Decoupled Diffusion Planning for Autonomous Driving",
+  "track": "main"
  },
  {
   "authors": "Kaibo Su and Kun Zhu",
-  "title": "SaferSAC: A Deep Reinforcement Learning Framework for Autonomous Obstacle Avoidance Navigation in UAVs"
+  "title": "SaferSAC: A Deep Reinforcement Learning Framework for Autonomous Obstacle Avoidance Navigation in UAVs",
+  "track": "main"
  },
  {
   "authors": "Augusto B. Corrêa, Simon Dold and Malte Helmert",
-  "title": "Potential Heuristics as Real-Valued Multilinear Polynomials"
+  "title": "Potential Heuristics as Real-Valued Multilinear Polynomials",
+  "track": "main"
  },
  {
   "authors": "Alberto Pozanco, Marianela Morales, Daniel Borrajo and Manuela Veloso",
-  "title": "Planning with Minimal Disruption"
+  "title": "Planning with Minimal Disruption",
+  "track": "main"
  },
  {
   "authors": "Andrea Micheli, Enrico Scala and Alessandro Valentini",
-  "title": "Compiling Temporal Numeric Planning into Discrete PDDL+"
+  "title": "Compiling Temporal Numeric Planning into Discrete PDDL+",
+  "track": "main"
  },
  {
   "authors": "Yapeng Pang, Junjie Xu, Zhidong Qiao, Peng Du and Xinyu Zhang",
-  "title": "DGV: Fusing Dynamic Graphs and Vision-Language Models for Collaborative Dual-Arm Task Planning"
+  "title": "DGV: Fusing Dynamic Graphs and Vision-Language Models for Collaborative Dual-Arm Task Planning",
+  "track": "main"
  },
  {
   "authors": "João Sá and Gregor Behnke",
-  "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT"
+  "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT",
+  "track": "main"
  },
  {
   "authors": "Tzvika Geft, Kostas Bekris and Jingjin Yu",
-  "title": "Fully Packed and Ready to Go: High-Density, Rearrangement-Free, Grid-Based Storage and Retrieval"
+  "title": "Fully Packed and Ready to Go: High-Density, Rearrangement-Free, Grid-Based Storage and Retrieval",
+  "track": "main"
  },
  {
   "authors": "Nitin Gupta, Vishal Pallagani, John A. Aydin and Biplav Srivastava",
-  "title": "On Sample-Efficient Generalized Planning via Learned Transition Models"
+  "title": "On Sample-Efficient Generalized Planning via Learned Transition Models",
+  "track": "main"
  },
  {
   "authors": "Arnaud Lequen, Oliver Joergensen, Windy Phung, Elliot Gestrin, Damien Van Meerbeeck, Markus Fritzsche, Dominik Drexler and Jendrik Seipp",
-  "title": "Planner Museum: Evaluating Classical Planners Over Time"
+  "title": "Planner Museum: Evaluating Classical Planners Over Time",
+  "track": "main"
  },
  {
   "authors": "Arseni Pertzovskiy, Roni Stern, Ariel Felner and Roie Zivan",
-  "title": "Enhancing Lifelong Multi-Agent Path-finding by Using Artificial Potential Fields"
+  "title": "Enhancing Lifelong Multi-Agent Path-finding by Using Artificial Potential Fields",
+  "track": "main"
  },
  {
   "authors": "Anoop Bhat, Geordan Gutow, Zhongqiang Ren, Sivakumar Rathinam and Howie Choset",
-  "title": "Optimal Solutions for the Moving Target Vehicle Routing Problem via Branch-and-Price with Relaxed Continuity"
+  "title": "Optimal Solutions for the Moving Target Vehicle Routing Problem via Branch-and-Price with Relaxed Continuity",
+  "track": "main"
  },
  {
   "authors": "Mahyar Jahani Nasab, Hamid Rezatofighi, Mor Vered and Buser Say",
-  "title": "PING: A Physics‑Informed Neuro‑Symbolic Generator for Continuous‑Time Planning"
+  "title": "PING: A Physics‑Informed Neuro‑Symbolic Generator for Continuous‑Time Planning",
+  "track": "main"
  },
  {
   "authors": "Ben Sievers, Jan Eisenhut and Jörg Hoffmann",
-  "title": "Policy Comparison Oracles for Action Policy Testing"
+  "title": "Policy Comparison Oracles for Action Policy Testing",
+  "track": "main"
  },
  {
   "authors": "Srikar Gouru, Ariel Felner and Jiaoyang Li",
-  "title": "Scalable Algorithms with Provable Optimality Bounds for the Multiple Watchman Route Problem"
+  "title": "Scalable Algorithms with Provable Optimality Bounds for the Multiple Watchman Route Problem",
+  "track": "main"
  },
  {
   "authors": "Matteo Ceriscioli and Karthika Mohan",
-  "title": "Planning under Distribution Shifts with Causal POMDPs"
+  "title": "Planning under Distribution Shifts with Causal POMDPs",
+  "track": "main"
  },
  {
   "authors": "Yun Liu, Yuqi Feng, Jiahao Fan, Shangce Gao and Yanan Sun",
-  "title": "Learning Distributed Scheduling via LLM-Augmented Reinforcement Learning"
+  "title": "Learning Distributed Scheduling via LLM-Augmented Reinforcement Learning",
+  "track": "main"
  },
  {
   "authors": "Nhat Nguyen, Duong Nguyen, Gianluca Rizzo and Hung Nguyen",
-  "title": "Boltzmann-based Exploration for Robust Decentralized Multi-Agent Planning"
+  "title": "Boltzmann-based Exploration for Robust Decentralized Multi-Agent Planning",
+  "track": "main"
  },
  {
   "authors": "Lorenzo Serina, Mattia Chiari, Matteo Olivato, Luca Putelli, Nicholas Rossetti, Ivan Serina and Alfonso Emilio Gerevini",
-  "title": "Mitigating Deception and Interference in Online Goal Recognition Systems"
+  "title": "Mitigating Deception and Interference in Online Goal Recognition Systems",
+  "track": "main"
  },
  {
   "authors": "Diego Aineto and Enrico Scala",
-  "title": "Learning Numeric Action Models with Anytime Guarantees"
+  "title": "Learning Numeric Action Models with Anytime Guarantees",
+  "track": "main"
  },
  {
   "authors": "Qihao Shen, Guang Hu and Chenyuan Zhang",
-  "title": "Proactive Assistance Agent with Online Goal Recognition"
+  "title": "Proactive Assistance Agent with Online Goal Recognition",
+  "track": "main"
  },
  {
   "authors": "Jules Andretti, Jérémie Cabessa and Yann Strozecki",
-  "title": "Learning-Guided Simulated Annealing for the Capacitated Vehicle Routing Problem"
+  "title": "Learning-Guided Simulated Annealing for the Capacitated Vehicle Routing Problem",
+  "track": "main"
  },
  {
   "authors": "Mauricio Salerno, Raquel Fuentetaja and Jendrik Seipp",
-  "title": "Monotonic Variants of Saturated Cost Partitioning"
+  "title": "Monotonic Variants of Saturated Cost Partitioning",
+  "track": "main"
  },
  {
   "authors": "Joan Espasa Arxer, Miquel Bofill, Mateu Villaret and Mustafa Faisal",
-  "title": "On-Demand Mutex Constraints for Numeric Planning as SMT"
+  "title": "On-Demand Mutex Constraints for Numeric Planning as SMT",
+  "track": "main"
  },
  {
   "authors": "Joan Espasa Arxer, Mateu Villaret, Ian Miguel and Carla Davesa Sureda",
-  "title": "Compiling Expressive Planning With Data Types"
+  "title": "Compiling Expressive Planning With Data Types",
+  "track": "main"
  },
  {
   "authors": "Nicola J. Müller, Moritz Oster, Isabel Valera, Jörg Hoffmann and Timo P. Gros",
-  "title": "Per-Domain Generalizing Policies: On Learning Efficient and Robust Q-Value Functions"
+  "title": "Per-Domain Generalizing Policies: On Learning Efficient and Robust Q-Value Functions",
+  "track": "main"
  },
  {
   "authors": "Claudia Grundke and Gabriele Röger",
-  "title": "PDDL Axioms Are Equivalent to Least Fixed Point Logic"
+  "title": "PDDL Axioms Are Equivalent to Least Fixed Point Logic",
+  "track": "main"
  },
  {
   "authors": "Martha Del Toro, Raquel Fuentetaja and Ángel García-Olaya",
-  "title": "Finding Optimal Cost-Bounded Plan Reductions"
+  "title": "Finding Optimal Cost-Bounded Plan Reductions",
+  "track": "main"
  },
  {
   "authors": "Nika Beriachvili and Arthur Bit-Monnot",
-  "title": "A Constraint Formulation for Domain Repair with Ground or Lifted Test Plans"
+  "title": "A Constraint Formulation for Domain Repair with Ground or Lifted Test Plans",
+  "track": "main"
  },
  {
   "authors": "Mattia Chiari, Francesco Percassi, Alfonso Emilio Gerevini and Mauro Vallati",
-  "title": "Near-Future Traffic Forecasting for Planning-based Traffic Signal Optimisation"
+  "title": "Near-Future Traffic Forecasting for Planning-based Traffic Signal Optimisation",
+  "track": "main"
  },
  {
   "authors": "Alexander Tuisov, Yonatan Vernik and Alexander Shleyfman",
-  "title": "Successor-Generator Planning with LLM-generated Heuristics"
+  "title": "Successor-Generator Planning with LLM-generated Heuristics",
+  "track": "main"
  },
  {
   "authors": "Gianluca Zavan, Konstantin Schekotihin and Thomas Langreiter",
-  "title": "Automated planning for production routines in semiconductor manufacturing"
+  "title": "Automated planning for production routines in semiconductor manufacturing",
+  "track": "main"
  },
  {
   "authors": "Kangjia Niu, Yanning Zhang, Xiuchong Wang, Chennan Ma, Siqi Hong, Hankz Hankui Zhuo, Junxiong Zhu and Bo Zheng",
-  "title": "RASO: Role-Aware Shared Reflection for Multi-Agent Orchestration in E-Commerce Long-Horizon Planning"
+  "title": "RASO: Role-Aware Shared Reflection for Multi-Agent Orchestration in E-Commerce Long-Horizon Planning",
+  "track": "main"
  },
  {
   "authors": "Vojtěch Kůr, Vít Musil and Vojtěch Řehák",
-  "title": "Memory Assignment for Finite-Memory Strategies in Adversarial Patrolling Games"
+  "title": "Memory Assignment for Finite-Memory Strategies in Adversarial Patrolling Games",
+  "track": "main"
  },
  {
   "authors": "María Fernanda Salerno Garmendia, Daniel Fišer and Álvaro Torralba",
-  "title": "Beyond Pruning: Leveraging Dominance Relations for Heuristic Propagation"
+  "title": "Beyond Pruning: Leveraging Dominance Relations for Heuristic Propagation",
+  "track": "main"
  },
  {
   "authors": "Zherui Huang, Yicheng Liu, Chumeng Liang and Guanjie Zheng",
-  "title": "Planning under Observation Mismatch for Traffic Signal Control via Adaptive Modular World Models"
+  "title": "Planning under Observation Mismatch for Traffic Signal Control via Adaptive Modular World Models",
+  "track": "main"
  },
  {
   "authors": "María Fernanda Salerno Garmendia, Daniel Fišer and Álvaro Torralba",
-  "title": "Finding a Dominating State in a Haystack: Efficient Data Structures for Dominance Pruning"
+  "title": "Finding a Dominating State in a Haystack: Efficient Data Structures for Dominance Pruning",
+  "track": "main"
  },
  {
   "authors": "Andrzej Kaczmarczyk, Šimon Schierreich, Nicholas Axel Tanujaya and Haifeng Xu",
-  "title": "Optimal Path Planning in Hostile Environments"
+  "title": "Optimal Path Planning in Hostile Environments",
+  "track": "main"
  },
  {
   "authors": "Ángel Aso-Mollar, Diego Aineto, Enrico Scala and Eva Onaindia",
-  "title": "Subgoaling Relaxation-based Heuristics for Numeric Planning with Infinite Actions"
+  "title": "Subgoaling Relaxation-based Heuristics for Numeric Planning with Infinite Actions",
+  "track": "main"
  },
  {
   "authors": "Anubhav Singh, Florian Pommerening, Tanja Schindler, J. Christopher Beck and Malte Helmert",
-  "title": "Operator-Counting Heuristics for Domain-Independent Dynamic Programming"
+  "title": "Operator-Counting Heuristics for Domain-Independent Dynamic Programming",
+  "track": "main"
  },
  {
   "authors": "Katharina Stein, Nils Hodel, Daniel Fišer, Jörg Hoffmann, Michael Katz and Alexander Koller",
-  "title": "Improved Generalized Planning with LLMs through Strategy Refinement and Reflection"
+  "title": "Improved Generalized Planning with LLMs through Strategy Refinement and Reflection",
+  "track": "main"
  },
  {
   "authors": "Sarath Sreedharan and Pascal Bercher",
-  "title": "Compiling Model Reconciliation Explanation Problems into Stackelberg and FOND Planning Problems"
+  "title": "Compiling Model Reconciliation Explanation Problems into Stackelberg and FOND Planning Problems",
+  "track": "main"
  },
  {
   "authors": "Tanja Schindler, David Speck and Malte Helmert",
-  "title": "Cartesian Abstraction Refinement for Simple Numeric Planning"
+  "title": "Cartesian Abstraction Refinement for Simple Numeric Planning",
+  "track": "main"
  },
  {
   "authors": "Lukas Frühwirth, Christoph Einspieler, Nysret Musliu and Felix Winter",
-  "title": "GPMS: A Generalized Parallel Machine Scheduling Framework with Rich Temporal and Resource Constraints"
+  "title": "GPMS: A Generalized Parallel Machine Scheduling Framework with Rich Temporal and Resource Constraints",
+  "track": "main"
  },
  {
   "authors": "Benjamin Krarup, Amanda Coles, Dancheng Gao, Derek Long and David Smith",
-  "title": "How Humans Explain the Difference in the Quality of Plans -- A User Study"
+  "title": "How Humans Explain the Difference in the Quality of Plans -- A User Study",
+  "track": "main"
  },
  {
   "authors": "Benjamin Krarup, Amanda Coles, Derek Long and David Smith",
-  "title": "Finding Human-Aligned Abstractions Efficiently for Explaining Plan Quality Differences"
+  "title": "Finding Human-Aligned Abstractions Efficiently for Explaining Plan Quality Differences",
+  "track": "main"
  },
  {
   "authors": "Leonid Ugadiarov, Yuri Kuratov, Aleksandr Panov and Alexey Skrynnik",
-  "title": "Revisiting Tree Search for LLMs: Gumbel and Sequential Halving for Budget-Scalable Reasoning"
+  "title": "Revisiting Tree Search for LLMs: Gumbel and Sequential Halving for Budget-Scalable Reasoning",
+  "track": "main"
  },
  {
   "authors": "Jaber Valizadeh and Ray Telikani",
-  "title": "Online Learning for Decentralized Multi-Agent Planning in Repeated Hedonic Skill Games"
+  "title": "Online Learning for Decentralized Multi-Agent Planning in Repeated Hedonic Skill Games",
+  "track": "main"
  },
  {
   "authors": "Loïs Vanhée and Anais de Graaf",
-  "title": "Markovian Models Anxious To Stay on the Beaten Path - A Psychology-Grounded Approach to Minimising Exposure to Path Uncertainty"
+  "title": "Markovian Models Anxious To Stay on the Beaten Path - A Psychology-Grounded Approach to Minimising Exposure to Path Uncertainty",
+  "track": "main"
  },
  {
   "authors": "Vidisha Kudalkar, Sujit Ponguluri, Anand Balakrishnan and Jyotirmoy Deshmukh",
-  "title": "Sampling-Based Multi-Agent Path Planning Guided by Spatio-Temporal Logic Mission Objectives"
+  "title": "Sampling-Based Multi-Agent Path Planning Guided by Spatio-Temporal Logic Mission Objectives",
+  "track": "main"
  },
  {
   "authors": "Jingtian Yan, Zhifei Li, William Kang, Stephen Smith and Jiaoyang Li",
-  "title": "Analyzing Planner Design Trade-offs for MAPF under Realistic Simulation"
+  "title": "Analyzing Planner Design Trade-offs for MAPF under Realistic Simulation",
+  "track": "main"
  },
  {
   "authors": "Taylor Paul and William Regli",
-  "title": "Worksworld: A Domain for Integrated Numeric Planning and Scheduling of Distributed Pipelined Workflows"
+  "title": "Worksworld: A Domain for Integrated Numeric Planning and Scheduling of Distributed Pipelined Workflows",
+  "track": "main"
  },
  {
   "authors": "Jiajia Song, Seeun William Umboh, Malte Helmert, Nir Lipovetzky and Sebastian Sardina",
-  "title": "Computing Planning Width: How Hard is it, Really?"
+  "title": "Computing Planning Width: How Hard is it, Really?",
+  "track": "main"
  },
  {
   "authors": "Kai Xi, Stephen Gould and Sylvie Thiebaux",
-  "title": "Learning Lifted Action Models from Unsupervised Visual Traces"
+  "title": "Learning Lifted Action Models from Unsupervised Visual Traces",
+  "track": "main"
  },
  {
   "authors": "Qiangxiao Zhou, Yiheng Wang, Hangbin Xu and Long Cheng",
-  "title": "Learning-Based Peak Temperature Optimization for Hard Real-Time Pipeline Schedules"
+  "title": "Learning-Based Peak Temperature Optimization for Hard Real-Time Pipeline Schedules",
+  "track": "main"
  },
  {
   "authors": "Ashish Malik, Caleb Lowe, Aayam Shrestha, Stefan Lee, Fuxin Li and Alan Fern",
-  "title": "Grounding Vision and Language to 3D Masks for Long-Horizon Box Rearrangement"
+  "title": "Grounding Vision and Language to 3D Masks for Long-Horizon Box Rearrangement",
+  "track": "main"
  },
  {
   "authors": "Zakariya Laouar, Qi Heng Ho and Zachary Sunberg",
-  "title": "Leveraging the Value of Information in POMDP Planning"
+  "title": "Leveraging the Value of Information in POMDP Planning",
+  "track": "main"
  },
  {
   "authors": "Rajesh Mangannavar and Prasad Tadepalli",
-  "title": "GammaZero: Learning to Guide Belief-Space Search for Long-Horizon POMDPs with Generalizable Graph Representations"
+  "title": "GammaZero: Learning to Guide Belief-Space Search for Long-Horizon POMDPs with Generalizable Graph Representations",
+  "track": "main"
  },
  {
   "authors": "Irfansha Shaik and Jaco van de Pol",
-  "title": "Optimal Clifford Synthesis as Planning"
+  "title": "Optimal Clifford Synthesis as Planning",
+  "track": "main"
  },
  {
   "authors": "Jakub Med, Mohammad Yousefi, Lukas Chrpa and Pascal Bercher",
-  "title": "Reversibility and Reachability in HTN Planning: Formalization and Computational Complexities in the Totally-Ordered Setting"
+  "title": "Reversibility and Reachability in HTN Planning: Formalization and Computational Complexities in the Totally-Ordered Setting",
+  "track": "main"
+ },
+ {
+  "authors": "David Speck, Markus Hecher, Daniel Gnad, Johannes K. Fichte and Augusto B. Corrêa",
+  "title": "Counting and Reasoning with Plans",
+  "track": "previously-published"
+ },
+ {
+  "authors": "Carlos Núñez-Molina, Pablo Mesejo and Juan Fernández-Olivares",
+  "title": "Automated planning instance generation with neuro-symbolic AI",
+  "track": "previously-published"
+ },
+ {
+  "authors": "Linus Heck, Filip Macák, Milan Češka and Sebastian Junges",
+  "title": "Constrained and Robust Policy Synthesis with Satisfiability-Modulo-Probabilistic-Model-Checking",
+  "track": "previously-published"
+ },
+ {
+  "authors": "Lennert De Smet, Gabriele Venturato, Luc De Raedt and Giuseppe Marra",
+  "title": "Relational Neurosymbolic Markov Models",
+  "track": "previously-published"
+ },
+ {
+  "authors": "Matteo Cardellini, Enrico Giunchiglia and Marco Maratea",
+  "title": "Symbolic pattern planning",
+  "track": "previously-published"
+ },
+ {
+  "authors": "Zhongqiang Ren, Carlos Hernández, Maxim Likhachev, Ariel Felner, Sven Koenig, Oren Salzman, Sivakumar Rathinam and Howie Choset",
+  "title": "EMOA*: A framework for search-based multi-objective path planning",
+  "track": "previously-published"
+ },
+ {
+  "authors": "Francesca Da Ros, Luca Di Gaspero, Marie-Louise Lackner, Nysret Musliu and Felix Winter",
+  "title": "Multi-neighborhood simulated annealing for the oven scheduling problem",
+  "track": "previously-published"
+ },
+ {
+  "authors": "Alexander Tuisov, Evgeny Mishlyakov, Alexander Shleyfman and Erez Karpas",
+  "title": "Towards a Unified View of Social Laws with Instantaneous Actions",
+  "track": "previously-published"
+ },
+ {
+  "authors": "Keisuke Okumura, Guang Yang, Zhan Gao, Heedo Woo and Amanda Prorok",
+  "title": "Concrete multi-agent path planning enabling kinodynamically aggressive maneuvers",
+  "track": "previously-published"
+ },
+ {
+  "authors": "Emanuele Musumeci, Michele Brienza, Francesco Argenziano, Abdel Hakim Drid, Vincenzo Suriani, Daniele Nardi and Domenico D. Bloisi",
+  "title": "Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning",
+  "track": "previously-published"
  }
 ]
