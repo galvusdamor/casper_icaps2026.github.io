@@ -70,9 +70,52 @@ draft: false
     text-align: center;
     font-weight: bold;
 }
+.lunch-link {
+    background: none;
+    border: none;
+    padding: 0;
+    color: inherit;
+    font: inherit;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-underline-offset: 2px;
+    cursor: pointer;
+}
+#lunch-info {
+    max-width: 480px;
+    border: 2px solid #f5821f;
+    border-radius: 8px;
+    padding: 20px 25px;
+    background-color: #fff4e6;
+    text-align: left;
+    font-weight: normal;
+}
+#lunch-info::backdrop {
+    background: rgba(0, 0, 0, 0.4);
+}
+.lunch-close {
+    float: right;
+    background: none;
+    border: none;
+    font-size: 1.5em;
+    line-height: 1;
+    cursor: pointer;
+    color: #666;
+}
 </style>
 
 ---
+
+<div id="lunch-info" popover>
+<button class="lunch-close" popovertarget="lunch-info" popovertargetaction="hide" aria-label="Close">&times;</button>
+<strong>Lunch at ICAPS 2026</strong><br/>
+Lunch is provided to all participants from June 28th to July 2nd (inclusive). On June 27th, lunch is provided to DC &amp; Launchpad participants (students, mentors, organizers) and to the Council participants.
+<ul>
+<li><strong>June 27th, 28th, 29th:</strong> Chef's Selection of Sandwiches, Soup, Tea &amp; Coffee</li>
+<li><strong>June 30th, July 1st, 2nd:</strong> Buffet Lunch (1 Main Course &amp; 1 Vegan Main Course) served with Seasonal Vegetables, Rice &amp; Potatoes, and Tea &amp; Coffee</li>
+</ul>
+</div>
 
 <div id="sunday" style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
 <h2 style="margin: 0; font-size: 1.8em;">Sunday, June 28, 2026 — Workshops & Tutorials Day 1
@@ -125,7 +168,7 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">13:00 – 14:30 — Lunch — Sussex Restaurant</div>
+<div class="special-event">13:00 – 14:30 — <button class="lunch-link" popovertarget="lunch-info">Lunch</button> — Sussex Restaurant</div>
 
 <div class="time-slot">14:30 – 18:00 — Afternoon Sessions <span style="font-weight: normal; font-style: italic;">(Coffee Break 16:00 – 16:20 in the open space and meeting rooms on the second floor)</span></div>
 
@@ -219,7 +262,7 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">12:30 – 14:00 — Lunch — Sussex Restaurant</div>
+<div class="special-event">12:30 – 14:00 — <button class="lunch-link" popovertarget="lunch-info">Lunch</button> — Sussex Restaurant</div>
 
 <div class="time-slot">14:00 – 17:30 — Afternoon Sessions <span style="font-weight: normal; font-style: italic;">(Coffee Break 15:30 – 15:50 in the open space and meeting rooms on the second floor)</span></div>
 
@@ -379,7 +422,7 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">12:00 – 13:30 — Lunch — Sussex Restaurant</div>
+<div class="special-event">12:00 – 13:30 — <button class="lunch-link" popovertarget="lunch-info">Lunch</button> — Sussex Restaurant</div>
 
 <div class="time-slot">13:30 – 15:00 — Afternoon Sessions</div>
 
@@ -708,7 +751,7 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">12:00 – 13:30 — Lunch — Sussex Restaurant</div>
+<div class="special-event">12:00 – 13:30 — <button class="lunch-link" popovertarget="lunch-info">Lunch</button> — Sussex Restaurant</div>
 
 <div class="time-slot">13:30 – 15:00 — Afternoon Sessions</div>
 
@@ -899,7 +942,7 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">12:00 – 13:30 — Lunch — Sussex Restaurant</div>
+<div class="special-event">12:00 – 13:30 — <button class="lunch-link" popovertarget="lunch-info">Lunch</button> — Sussex Restaurant</div>
 
 <div class="time-slot">13:30 – 15:05 — Afternoon Sessions</div>
 
