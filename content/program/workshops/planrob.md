@@ -51,38 +51,30 @@ AI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robot
  
 *Bio-sketch*: Nick Hawes is a Professor of AI and Robotics in the [Department of Engineering Science](https://eng.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/), where he directs the [Oxford Robotics Institute (ORI)](https://ori.ox.ac.uk/), a federation of eight research groups. He is also a Tutorial Fellow at [Pembroke College](https://pmb.ox.ac.uk/). Within ORI, he leads the [Goal-Oriented Autonomous Long-Lived Systems (GOALS)](https://ori.ox.ac.uk/groups/goals) group, researching sequential decision-making for autonomous systems and multi-agent teams. He has led world-first deployments of AI-controlled robots, including long-term autonomous mobile robots in care and security, quadrupeds inspecting active nuclear sites, and AUVs gathering data on underwater ecosystems. He is a member of the [UK Government's Robotics Advisory Group](https://www.gov.uk/government/groups/robotics-advisory-group), an Associate Editor of the [Journal of AI Research](https://www.jair.org/), a Senior Member of [AAAI](https://aaai.org/), and Chief Scientist of [Stateful Robotics](https://statefulrobotics.com/).
 
-## Program
+## PlanRob Schedule
 
-|| PlanRob Schedule         |          |
-||--------------------------|----------|
-|09.00| WS Introduction          | |
-|09.10| Keynote by Nick Hawes    | |
-|10.10|                          | |
-||--------------------------|----------|
-|10.20| Coffee Break             | |
-||--------------------------|----------|
-|10.50|                          | |
-|11.05|                          | |
-|11.20|                          | |
-|11.35|                          | |
-|11.50|                          | |
-|12.05|                          | |
-|12.20|                          | |
-||--------------------------|----------|
-|12.30| Lunch Break             | |
-||--------------------------|----------|
-|14.00| Keynote by Steve Chien | |
-|15.00|                          | |
-|15.15|                          | |
-||--------------------------|----------|
-|15.30| Coffee Break             | |
-||--------------------------|----------|
-|15.50|                          | |
-|16.05|                          | |
-|16.20|                          | |
-|16.35|                          | |
-|16.50|                          | |
-|17.05|                          | |
+* 09.00 WS Introduction <br>
+* 09.10 Keynote by Nick Hawes <br>
+* 10.10  <br>
+* 10.20 Coffee Break <br>
+* 10.50 <br>
+* 11.05 <br>
+* 11.20 <br>
+* 11.35 <br>
+* 11.50 <br>
+* 12.05 <br>
+* 12.20 <br>
+* 12.30 Lunch Break <br>
+* 14.00 Keynote by Steve Chien <br>
+* 15.00 <br>
+* 15.15 <br>
+* 15.30 Coffee Break <br>
+* 15.50 <br>
+* 16.05 <br>
+* 16.20 <br>
+* 16.35 <br>
+* 16.50 <br>
+* 17.05 <br>
 
 ## Topics of Interest
 
