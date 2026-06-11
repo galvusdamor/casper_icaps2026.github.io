@@ -17,7 +17,6 @@ Paper submission deadline extended to 2nd of May, 2026.
 AI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robots to perform autonomous, flexible, and interactive behaviors, but they must be tightly integrated into the overall robot architecture in order to be effective. This requires strong collaboration between researchers from both the AI and the Robotics communities. To foster this, the workshop aims to provide a stable, long-term forum where researchers from both the P&S and Robotics communities can openly discuss relevant issues such as research and development progress, future directions, and open challenges related to P&S when applied to Robotics. Recent advances in large-scale learning models, multimodal perception, and whole-body robotic systems are reshaping the landscape of planning and execution. The 2026 edition of PlanRob explicitly aims to address these emerging challenges, with a focus on integrating symbolic, geometric, and learning-based approaches for robust, scalable, and adaptive robot autonomy.
 
 ## Accepted Papers
-<!-- ## Accepted Papers
 * **** Eyal Tadmor, Erez Karpas and Marc Toussaint. Data-Driven Metareasoning in Search in Infinite Completion Trees for Task and Motion Planning<br>
 * **** Andrew Coles, Erez Karpas, Shahaf Shperberg, Solomon Eyal Shimony and Wheeler Ruml. Situated Planning with Soft Goals<br>
 * **** Björn Döschl, Jake Olkin, Prakash Jamakatel, Brian Williams and Jane Jean Kiam. DELTA: Decentralized Delay-Aware Executive Layer with Task Anticipation for Multi-UAV Systems<br>
@@ -31,7 +30,7 @@ AI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robot
 * **** Taisei Hirayama, Kohei Yoshida, Hiroki Sakaji and Itsuki Noda. Fixed-Haven Reservation for Online Multi-Agent Pickup and Delivery in Dense Warehouses<br>
 * **** Gloria Beraldo, Alessandro Umbrico and Andrea Orlandini. Toward a Unified Framework for Dynamic Task Allocation and Adaptive Synergy in Hybrid Emergency Response Teams<br>
 * **** Mohammad Ibrahim Memon, Ujjwal Patil, Iman Awaad and Youssef Mahmoud Youssef. Learning Interpretable Scheduling Policies for Online Multi-Robot Task Allocation via Inductive Logic Programming<br>
-* **** Yigit Yildirim, Giuseppe Rauso, Riccardo Caccavale and Alberto Finzi. Inverse Manipulation through Symbolic Planning and Residual Operator Learning -->
+* **** Yigit Yildirim, Giuseppe Rauso, Riccardo Caccavale and Alberto Finzi. Inverse Manipulation through Symbolic Planning and Residual Operator Learning
 
 ## Invited Talk by [STEVE CHIEN](https://ai.jpl.nasa.gov/public/people/chien/)
 <img src="https://ai.jpl.nasa.gov/public/people/chien/images/chien.jpg" alt="Alt Text" width="300">
