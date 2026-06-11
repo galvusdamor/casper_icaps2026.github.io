@@ -53,10 +53,10 @@ AI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robot
 
 ## PlanRob Schedule (Draft to be confirmed)
 
-* 09.00 WS Introduction <br>
-* 09.10 Keynote by Nick Hawes <br>
+* 09.00 **WS Introduction** <br>
+* 09.10 **Keynote talk by Nick Hawes** <br>
 * 10.10 Emanuele Musumeci, Abdel Hakim Drid and Daniele Nardi, Rob-LAPIS: Grounding Verbal Household Robot Instructions via Iterative PDDL Synthesis <br>
-* 10.20 Coffee Break <br>
+* 10.20 **Coffee Break** <br>
 * 10.50 Eyal Tadmor, Erez Karpas and Marc Toussaint, Data-Driven Metareasoning in Search in Infinite Completion Trees for Task and Motion Planning<br>
 * 11.05 Lidor Erez, Shahaf Shperberg and Ayal Taitler, From Kinematics to Dynamics: Learning to Refine Hybrid Plans for Physically Feasible Execution<br>
 * 11.20 Qi Heng Ho, Zachary Sunberg and Morteza Lahijanian, Sampling-based Task and Kinodynamic Motion Planning under Semantic Uncertainty<br>
@@ -64,17 +64,17 @@ AI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robot
 * 11.50 Björn Döschl, Jake Olkin, Prakash Jamakatel, Brian Williams and Jane Jean Kiam, DELTA: Decentralized Delay-Aware Executive Layer with Task Anticipation for Multi-UAV Systems<br>
 * 12.05 Guy Azran, Michael Navat and Sarah Keren, Robust Visual Planning under Partial Observability and Perceptual Uncertainty<br>
 * 12.20 Samantha Papais, Using Automated Planning for the Safety Protocol Verification of Space Robotics<br>
-* 12.30 Lunch Break <br>
-* 14.00 Keynote by Steve Chien <br>
+* 12.30 **Lunch Break** <br>
+* 14.00 **Keynote talk by Steve Chien** <br>
 * 15.00 Yigit Yildirim, Giuseppe Rauso, Riccardo Caccavale and Alberto Finzi, Inverse Manipulation through Symbolic Planning and Residual Operator Learning<br>
 * 15.15 Andrew Coles, Erez Karpas, Shahaf Shperberg, Solomon Eyal Shimony and Wheeler Ruml, Situated Planning with Soft Goals<br>
-* 15.30 Coffee Break <br>
+* 15.30 **Coffee Break** <br>
 * 15.50 Paolo Forte, Uwe Köckemann and Alessandro Saffiotti, EuroCore: Enabling Reproducible Planning and Robotics Workflows on the European AI-on-Demand Platform<br>
 * 16.05 Simon Ferrier, Alessandro Renzaglia and Olivier Simonin, AttrAP: a New Heuristic-Based Method to Solve Heterogeneous MRTA Problems Minimizing the Makespan<br>
 * 16.20 Taisei Hirayama, Kohei Yoshida, Hiroki Sakaji and Itsuki Noda, Taisei Hirayama, Kohei Yoshida, Hiroki Sakaji and Itsuki Noda<br>
 * 16.35 Mohammad Ibrahim Memon, Ujjwal Patil, Iman Awaad and Youssef Mahmoud Youssef, Learning Interpretable Scheduling Policies for Online Multi-Robot Task Allocation via Inductive Logic Programming<br>
 * 16.50 Gloria Beraldo, Alessandro Umbrico and Andrea Orlandini, Toward a Unified Framework for Dynamic Task Allocation and Adaptive Synergy in Hybrid Emergency Response Teams<br>
-* 17.05 Closing remarks<br>
+* 17.05 **Closing remarks** <br>
 
 ## Topics of Interest
 
