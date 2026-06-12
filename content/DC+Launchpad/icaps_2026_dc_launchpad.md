@@ -132,6 +132,21 @@ Together, both the DC and the LaunchPad Workshop aim to:
 <div class="special-event">12:00 – 13:30 — Lunch</div>
 
 <div class="special-event">13:30 – 14:30 — Spotlight Presentation 1 — Meeting Room 1+2</div>
+<ul>
+  <li>Rasmus Tollund</li>
+  <li>Jakub Med</li>
+  <li>João Filipe Boucinha</li>
+  <li>Claudia Grundke</li>
+  <li>Devin Thomas</li>
+  <li>Marijnissen Imko</li>
+  <li>Lukas Frühwirth</li>
+  <li>Alexander Lodemann</li>
+  <li>Alessandro La Farciola</li>
+  <li>Irene Brugnara</li>
+  <li>Giacomo Rosa</li>
+  <li>María Fernanda Salerno Garmendia</li>
+</ul>
+
 
 <div class="special-event">14:30 – 15:30 — Poster Session 1 — Meeting Room 6</div>
 
