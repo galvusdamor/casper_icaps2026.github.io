@@ -100,12 +100,12 @@ languageCode = 'en_US'
   #   url = "/attending/venue"
   #   parent = "attending"
   #   weight = 10
-  # [[menu.main]]
-  #   identifier = "visa"
-  #   name = "Visa"
-  #   url = "/attending/visa"
-  #   parent = "attending"
-  #   weight = 10
+  [[menu.main]]
+    identifier = "support"
+    name = "Support"
+    url = "/attending/support"
+    parent = "attending"
+    weight = 50
 #  [[menu.main]]
 #    identifier = "visit_vic"
 #    name = "Discover Victoria"
@@ -124,12 +124,12 @@ languageCode = 'en_US'
 #    url = "/attending/travel"
 #    parent = "attending"
 #    weight = 20
-  # [[menu.main]]
-  #   identifier = "registration"
-  #   name = "Registration"
-  #   url = "/attending/registration"
-  #   parent = "attending"
-  #   weight = "30"
+  [[menu.main]]
+    identifier = "registration"
+    name = "Registration"
+    url = "/attending/registration"
+    parent = "attending"
+    weight = 30
 #  [[menu.main]]
 #    identifier = "info"
 #    name = "General Info"
@@ -141,7 +141,7 @@ languageCode = 'en_US'
     name = "Accommodation"
     url = "/attending/accommodation"
     parent = "attending"
-    weight = "40"
+    weight = 20
 #  [[menu.main]]
 #    identifier = "student-support"
 #    name = "Student Support"

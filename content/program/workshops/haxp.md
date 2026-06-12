@@ -65,7 +65,7 @@ Stylianos Loukas Vasileiou, Antonio Rago, Maria Vanina Martinez, and William Yeo
 
 ## Important Dates
 
-* **Paper submission deadline: May 10, 2026 UTC-12**
+* **Paper submission deadline: ~~May 10~~ May 17, 2026 UTC-12**
 * Notification of acceptance: June 10, 2026 UTC-12
 * Camera-ready paper submissions: TBD
 
@@ -96,10 +96,8 @@ At least one author of each accepted paper must attend the workshop in order to 
 
 ## Organizing Committee
 
-<!-- * [Rebecca Eifler](https://www.linkedin.com/in/rebecca-eifler-b56652144/) | LAAS-CNRS, France -->
 * [Benjamin Krarup](https://scholar.google.co.uk/citations?user=yEjXNsQAAAAJ&hl=en) | King’s College London, UK
-* [Alan Lindsay](https://researchportal.hw.ac.uk/en/persons/alan-lindsay) | Heriot-Watt University, UK
-<!-- * [Lindsay Sanneman](https://www.lindsaysanneman.com/) | Arizona State University, USA -->
+* [Alan Lindsay](http://tinyurl.com/AlanLindsayScholar) | Simplifai Systems, UK
 * [Silvia Tulli](https://silviatulli.com/) | Sorbonne University, France
 * [Stylianos Loukas Vasileiou](https://thestlucas.com/) | New Mexico State University, USA
 * [Chenyuan Zhang](https://sites.google.com/view/chenyuanzhang) | Monash University, Australia

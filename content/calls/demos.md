@@ -32,9 +32,9 @@ The extended abstracts and videos for accepted demonstrations will be available 
 Submissions will be evaluated based on their novelty, scientific or industrial contributions’ relevance to the conference theme and participants, and presentation. Decisions on acceptance will be made by the System Demonstrations Program Chairs soon after the submission deadline, and further feedback from reviewers will be solicited and shared two weeks after the notification of acceptance.
 
 ## Summary of Important Dates
-- Submission Deadline: March 31st.
-- Early Notification: April 3rd.
-- Final Feedback: April 17th.
+- Submission Deadline: April 6th.
+- Early Notification: April 9th.
+- Final Feedback: April 24th.
 
 ## System Demo Program Chairs
 - Christian Muise, Queens's University (christian.muise@queensu.ca)

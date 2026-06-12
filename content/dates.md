@@ -21,8 +21,7 @@ anywhere in the world.
 - ~~March 2, 2026:~~ LaunchPad Program applications due
 - ~~March 2, 2026:~~ Doctoral Consortium applications due
 - ~~March 18, 2026:~~ Previously Published Research due
-- **March 30, 2026:** Workshops materials online
-- **March 31, 2026:** System Demonstrations due
+- ~~April 6, 2026:~~ System Demonstrations due
 - **April 21, 2026:** Summer school registration deadline (incl. accommodation)
 - **May 7, 2026:** Summer school registration deadline (no accommodation)
 

@@ -57,16 +57,16 @@ Papers must be prepared according to the instructions for ICAPS 2026 (in AAAI fo
 * Notification of acceptance: June 10, 2026 UTC-12
 * Camera-ready paper submissions: TBD
 
-* Workshop date: June 28/29 (**TBD**), 2026
+* **Workshop date: June 28 afternoon**, 2026
 
 
 
 ## Organizing Committee
 
-- **[Dr. Chenyuan Zhang](https://sites.google.com/view/chenyuanzhang)**  
+- **[Dr. Chenyuan Zhang](https://chen-yuan-zhang.github.io/)**  
   Monash University, Australia
 
-- **Dr. Guang Hu**  
+- **[Dr. Guang Hu](https://guanghuhappysf128.github.io/)**  
   University of Melbourne, Australia
 
 - **[Dr. Alessandro Burigana](https://a-burigana.github.io)**  

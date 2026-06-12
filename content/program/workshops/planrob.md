@@ -10,11 +10,11 @@ Co-located workshop at ICAPS'26  \
 Dublin, Ireland \
 June 28, 2026
 
-
+Paper submission deadline extended to 2nd of May, 2026.
 
 ## Aim and Scope of the Workshop
 
-Workshop TopicAI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robots to perform autonomous, flexible, and interactive behaviors, but they must be tightly integrated into the overall robot architecture in order to be effective. This requires strong collaboration between researchers from both the AI and the Robotics communities. To foster this, the workshop aims to provide a stable, long-term forum where researchers from both the P&S and Robotics communities can openly discuss relevant issues such as research and development progress, future directions, and open challenges related to P&S when applied to Robotics.Recent advances in large-scale learning models, multimodal perception, and whole-body robotic systems are reshaping the landscape of planning and execution. The 2026 edition of PlanRob explicitly aims to address these emerging challenges, with a focus on integrating symbolic, geometric, and learning-based approaches for robust, scalable, and adaptive robot autonomy.
+AI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robots to perform autonomous, flexible, and interactive behaviors, but they must be tightly integrated into the overall robot architecture in order to be effective. This requires strong collaboration between researchers from both the AI and the Robotics communities. To foster this, the workshop aims to provide a stable, long-term forum where researchers from both the P&S and Robotics communities can openly discuss relevant issues such as research and development progress, future directions, and open challenges related to P&S when applied to Robotics. Recent advances in large-scale learning models, multimodal perception, and whole-body robotic systems are reshaping the landscape of planning and execution. The 2026 edition of PlanRob explicitly aims to address these emerging challenges, with a focus on integrating symbolic, geometric, and learning-based approaches for robust, scalable, and adaptive robot autonomy.
 
 
 
@@ -50,12 +50,12 @@ Important goals of the workshop are the discussion of solutions, results, open i
 
 ## Important Dates
 
-- Submission Deadline: April 20, 2026 (AoE)
-- Author Notification: May 15, 2026
-- Camera-Ready Deadline: June 5, 2023
+- *Extended Submission Deadline*: May 2, 2026 (AoE) (was April 20, 2026)
+- *Extedend Author Notification*: May 30, 2026 (was May 5, 2026)
+- Camera-Ready Deadline: June 5, 2026
 - ICAPS 2026 Workshops: June 28-29, 2026
 
-Note that at the date of the submission deadline, all papers need to be registered, which includes all relevant information such as title, abstract, authors, and kind of paper (long, short, etc.). 
+Note that at the date of the submission deadline, all papers need to be registered, which includes all relevant information such as title, abstract, authors, and kind of paper (long, short, ...). 
 
 
 ## Submission Instructions
@@ -88,7 +88,7 @@ The organisers are investigating the availability of journal editors in order to
 - Jonathan Cacace (EURECAT, Spain)
 - Riccardo Caccavale (Naples University, Italy)
 - Michael Cashmore (University of Strathclyde, UK)
-- Riccardo De Benedictis  (CNR-ISTC, Italy)
+- Riccardo De Benedictis  (CNR-ISTC, Italy)
 - Alberto Finzi (Naples University, Italy)
 - Nick Hawes (University of Oxford, UK)
 - Felix Ingrand (LAAS-CNRS, France)
@@ -97,7 +97,7 @@ The organisers are investigating the availability of journal editors in order to
 - Erez Karpas (Technion, Israel)
 - Matteo Leonetti (King’s College, UK)
 - Oscar Lima (DFKI, Germany)
-- Masoumeh Mansouri  (University of Birmingham, UK)
+- Masoumeh Mansouri  (University of Birmingham, UK)
 - Tim Niemuller (Intrinsic, Germany)
 - Andrea Orlandini (CNR-ISTC, Italy)
 - Ron Petrick (Heriot-Watt University, UK)

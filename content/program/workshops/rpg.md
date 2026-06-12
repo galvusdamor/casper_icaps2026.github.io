@@ -7,7 +7,9 @@ draft: false
 # Workshop on Roles of Planning in Games (RPG)
 
 ICAPS 2026 Workshop<br>
-Dublin, Ireland June 28-29, 2026
+Dublin, Ireland June 28-29, 2026<br>
+
+[RPG Website](https://rpg-workshop.github.io/rpg-worksphop-26/)
  
 ## Aim and Scope of the Workshop
 
@@ -15,12 +17,12 @@ Games and virtual environments have long served as test beds for Artificial Inte
 
 The Roles of Planning in Games (RPG) workshop aims to bring together researchers and practitioners to explore the unique challenges and contributions that rise from applying APS techniques to games. The focus is specifically on the aspects that directly interest the ICAPS community such as reasoning, resource management, hierarchical goal decomposition, and search-based methods. The focus on games will also encourage designers and developers to present their needs, wants, and challenges to the ICAPS community while having an opportunity to learn more about the APS resources available to them. This workshop will provide a dedicated space at the intersection of APS research and game applications, fostering collaboration between both communities and ideally connecting industry with academics.
 
-Learn more: [RPG website](https://rpg-workshop.github.io/rpg-worksphop-26/)
+Please send any inquiries to: rpg26@easychair.org
 
 ## Important Dates
 
-* Paper submission deadline: (TBD), 2026 
-* Notification of acceptance: (TBD), 2026 
+* Paper submission deadline: **May 4th**, 2026 
+* Notification of acceptance: **June 11th**, 2026 
 * Workshop date: June 28/29 (TBD), 2026
 
 The reference timezone for all deadlines is **UTC-12**. That is, as long as there is still some place anywhere in the world where the deadline has not yet passed, you are on time!
@@ -40,7 +42,7 @@ Topics include, but are not limited to:
 
 ## Submission Instructions
 
-Submit papers via [EasyChair](https://easychair.org) using the [ICAPS 2026 paper template](https://icaps26.icaps-conference.org/calls/cfp/).
+Submit papers via [EasyChair](https://easychair.org/my2/conference?conf=rpg26) using the [ICAPS 2026 paper template](https://aaai.org/authorkit26-1/).
 
 * Regular papers: up to **8 pages** + unlimited references
 * Short / position papers: up to **4 pages** + unlimited references
@@ -54,9 +56,8 @@ At least one author of each accepted paper **must register** for the ICAPS 2026 
 * [Emanuele De Pellegrin](https://cryoscopic-e.github.io), University of Edinburgh, Centre for AI in Assistive Autonomy
 * [Lorenzo J. James](https://www.researchgate.net/profile/Lorenzo-James-2), IESEG School of Management
 * [Pavan Kantharaju](https://www.pavankantharaju.com), Smart Information Flow Technologies (SIFT)
-* Myriam Kapon<!---(https://linktr.ee/myriam_kapon)-->, University of Macedonia
+* [Myriam Kapon](https://linktr.ee/myriam_kapon), University of Macedonia
 
-<!---For any inquiries, please email us at @gmail.com--->
 
 
 
