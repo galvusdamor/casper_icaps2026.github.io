@@ -38,6 +38,11 @@ draft: false
     font-style: italic;
     margin-bottom: 8px;
 }
+.session-room {
+    color: #000;
+    font-style: normal;
+    font-weight: bold;
+}
 .paper-item {
     margin-bottom: 12px;
     padding: 8px 0;
@@ -149,42 +154,42 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/genplan">GenPlan</a></div>
-<div class="session-subheader">Generalization in Planning — Full Day</div>
+<div class="session-subheader">Generalization in Planning — Full Day — <span class="session-room">Room 6</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/haxp">HAXP</a></div>
-<div class="session-subheader">Human-Aware and Explainable Planning — Full Day</div>
+<div class="session-subheader">Human-Aware and Explainable Planning — Full Day — <span class="session-room">Room 3</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/keps">KEPS</a></div>
-<div class="session-subheader">Knowledge Engineering for Planning and Scheduling — Full Day</div>
+<div class="session-subheader">Knowledge Engineering for Planning and Scheduling — Full Day — <span class="session-room">Room 9</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/prl">PRL</a></div>
-<div class="session-subheader">Bridging the Gap Between AI Planning and (Reinforcement) Learning — Full Day</div>
+<div class="session-subheader">Bridging the Gap Between AI Planning and (Reinforcement) Learning — Full Day — <span class="session-room">Room 1+2</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/tutorials-overview/">Tutorial 1: Language2Plan</a></div>
-<div class="session-subheader">Language-to-Plan</div>
+<div class="session-subheader">Language-to-Plan — <span class="session-room">Room 5</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/tutorials-overview/">Tutorial 2: Deepxube</a></div>
-<div class="session-subheader">A Hands-on Deepxube Tutorial</div>
+<div class="session-subheader">A Hands-on Deepxube Tutorial — <span class="session-room">Room 7</span></div>
 </div>
 </div>
 </div>
@@ -197,42 +202,42 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/genplan">GenPlan</a></div>
-<div class="session-subheader">Generalization in Planning — Full Day</div>
+<div class="session-subheader">Generalization in Planning — Full Day — <span class="session-room">Room 6</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/haxp">HAXP</a></div>
-<div class="session-subheader">Human-Aware and Explainable Planning — Full Day</div>
+<div class="session-subheader">Human-Aware and Explainable Planning — Full Day — <span class="session-room">Room 3</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/keps">KEPS</a></div>
-<div class="session-subheader">Knowledge Engineering for Planning and Scheduling — Full Day</div>
+<div class="session-subheader">Knowledge Engineering for Planning and Scheduling — Full Day — <span class="session-room">Room 9</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/prl">PRL</a></div>
-<div class="session-subheader">Bridging the Gap Between AI Planning and (Reinforcement) Learning — Full Day</div>
+<div class="session-subheader">Bridging the Gap Between AI Planning and (Reinforcement) Learning — Full Day — <span class="session-room">Room 1+2</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/rpg">RPG</a></div>
-<div class="session-subheader">Roles of Planning in Games</div>
+<div class="session-subheader">Roles of Planning in Games — <span class="session-room">Room 5</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/pr_bgi">PR-BGI</a></div>
-<div class="session-subheader">Planning and Reasoning about Beliefs, Goals and Intentions</div>
+<div class="session-subheader">Planning and Reasoning about Beliefs, Goals and Intentions — <span class="session-room">Room 7</span></div>
 </div>
 </div>
 </div>
@@ -250,35 +255,35 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/lm4plan">LM4Plan</a></div>
-<div class="session-subheader">Planning in the Era of Large Language Models — Full Day</div>
+<div class="session-subheader">Planning in the Era of Large Language Models — Full Day — <span class="session-room">Room 1+2</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/planrob">PlanRob</a></div>
-<div class="session-subheader">Planning and Robotics — Full Day</div>
+<div class="session-subheader">Planning and Robotics — Full Day — <span class="session-room">Room 9</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/hsdip">HSDIP</a></div>
-<div class="session-subheader">Heuristics and Search for Domain-independent Planning — Full Day</div>
+<div class="session-subheader">Heuristics and Search for Domain-independent Planning — Full Day — <span class="session-room">Room 7</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/ripl">RIPL</a></div>
-<div class="session-subheader">Reliability in Planning and Learning — Full Day</div>
+<div class="session-subheader">Reliability in Planning and Learning — Full Day — <span class="session-room">Room 6</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/tutorials-overview/">Tutorial 3: Planning Ontology</a></div>
-<div class="session-subheader">Planning Ontology</div>
+<div class="session-subheader">Planning Ontology — <span class="session-room">Room 5</span></div>
 </div>
 </div>
 </div>
@@ -291,42 +296,42 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/lm4plan">LM4Plan</a></div>
-<div class="session-subheader">Planning in the Era of Large Language Models — Full Day</div>
+<div class="session-subheader">Planning in the Era of Large Language Models — Full Day — <span class="session-room">Room 1+2</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/planrob">PlanRob</a></div>
-<div class="session-subheader">Planning and Robotics — Full Day</div>
+<div class="session-subheader">Planning and Robotics — Full Day — <span class="session-room">Room 9</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/hsdip">HSDIP</a></div>
-<div class="session-subheader">Heuristics and Search for Domain-independent Planning — Full Day</div>
+<div class="session-subheader">Heuristics and Search for Domain-independent Planning — Full Day — <span class="session-room">Room 7</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/ripl">RIPL</a></div>
-<div class="session-subheader">Reliability in Planning and Learning — Full Day</div>
+<div class="session-subheader">Reliability in Planning and Learning — Full Day — <span class="session-room">Room 6</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/casp_er">CASP:ER</a></div>
-<div class="session-subheader">Constraint and Satisfiability-based Planning</div>
+<div class="session-subheader">Constraint and Satisfiability-based Planning — <span class="session-room">Room 3</span></div>
 </div>
 </div>
 
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header"><a href="/program/workshops/hplan">HPlan</a></div>
-<div class="session-subheader">Hierarchical Planning</div>
+<div class="session-subheader">Hierarchical Planning — <span class="session-room">Room 5</span></div>
 </div>
 </div>
 </div>
