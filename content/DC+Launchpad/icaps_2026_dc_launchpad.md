@@ -131,13 +131,46 @@ Together, both the DC and the LaunchPad Workshop aim to:
 
 <div class="special-event">12:00 – 13:30 — Lunch</div>
 
+<section class="schedule-session">
 <div class="special-event">13:30 – 14:30 — Spotlight Presentation 1 — Meeting Room 1+2</div>
+  <ul class="speaker-list">
+  <li>Rasmus Tollund</li>
+  <li>Jakub Med</li>
+  <li>João Filipe Boucinha</li>
+  <li>Claudia Grundke</li>
+  <li>Devin Thomas</li>
+  <li>Marijnissen Imko</li>
+  <li>Lukas Frühwirth</li>
+  <li>Alexander Lodemann</li>
+  <li>Alessandro La Farciola</li>
+  <li>Irene Brugnara</li>
+  <li>Giacomo Rosa</li>
+  <li>María Fernanda Salerno Garmendia</li>
+</ul>
+</section>
 
 <div class="special-event">14:30 – 15:30 — Poster Session 1 — Meeting Room 6</div>
 
 <div class="special-event">15:30 – 16:00 — Coffee Break</div>
 
-<div class="special-event">16:00 – 17:00 — Spotlight Presentation 2 — Meeting Room 1+2</div>
+<section class="schedule-session">
+  <div class="special-event">16:00 – 17:00 — Spotlight Presentation 2 — Meeting Room 1+2</div>
+  <ul class="speaker-list">
+    <li>Carla Davesa Sureda</li>
+    <li>Elliot Gestrin</li>
+    <li>Edoardo Cesari</li>
+    <li>Lorenzo Battisti</li>
+    <li>Maayan Armony</li>
+    <li>Emanuele Musumeci</li>
+    <li>Kai Xi</li>
+    <li>Döschl Björn</li>
+    <li>Viraj Parimi</li>
+    <li>Bharath Muppasani</li>
+    <li>Elisa Santini</li>
+    <li>Laouar Zakariya</li>
+  </ul>
+</section>
+
 
 <div class="special-event">17:00 – 18:00 — Poster Session 2 — Meeting Room 6</div>
 
