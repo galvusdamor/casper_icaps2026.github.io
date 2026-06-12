@@ -2,6 +2,9 @@
 {{ $local := resources.Get $file }}
 {{ $data := $local | transform.Unmarshal }}
 
+{{ $main := where $data "track" "main" }}
+{{ $prev := where $data "track" "previously-published" }}
+
 <style>
 
 	.paper-row {
@@ -31,13 +34,42 @@
 
 	}
 
+	.paper-nav {
+		margin: 1em 0;
+		text-align: right;
+	}
+
+	.paper-nav a {
+		display: inline-block;
+		padding: 0.3em 0.6em;
+		margin-left: 0.4em;
+		font-size: 0.85em;
+		background-color: #f0f0f0;
+		border: 1px solid #ccc;
+		border-radius: 4px;
+		text-decoration: none;
+		color: #333;
+	}
+
+	.paper-nav a:hover {
+		background-color: orange;
+		color: white;
+		border-color: orange;
+	}
+
 </style>
 
-<br>
+<div id="top"></div>
+
+<div class="paper-nav">
+	<a href="#previously-published-papers">Previously Published Papers</a>
+</div>
+
+<h2>Papers accepted to the Main Tracks</h2>
 
 <div>
 
-	{{ range $paper := $data }}
+	{{ range $paper := $main }}
 
 	<div>
 
@@ -59,4 +91,32 @@
 
 </div>
 
+<div class="paper-nav">
+	<a href="#top">↑ Back to Top</a>
+</div>
 
+<h2 id="previously-published-papers">Previously Published Papers</h2>
+
+<div>
+
+	{{ range $paper := $prev }}
+
+	<div>
+
+		<div class="paper">
+
+			<div><strong>{{ print $paper.title }}</strong></div>
+			<div>{{ print $paper.authors }}</div>
+
+			{{ with $paper.journal }}
+
+			<div style="padding: 2%"><strong>{{ print $paper.journal }}</strong> -  <a href="{{ $paper.url }}" target="_blank">{{ print $paper.url }}</a></div>
+
+			{{ end }}
+
+		</div>
+	</div>
+
+	{{ end }}
+
+</div>

@@ -4,8 +4,8 @@ title = 'ICAPS 2026'
 theme = 'mainroad'
 
 [languages.en]
-contentDir = 'content'
-languageCode = 'en_US'
+  contentDir = 'content'
+  languageCode = 'en_US'
 
 [Params.logo]
   image = "img/icapslogo.png" # Logo image. Path relative to "static"
@@ -14,7 +14,7 @@ languageCode = 'en_US'
   subtitle = "Dublin, Ireland, \n June 27 - July 2, 2026" # Logo subtitle
 
 [Params.style.vars]
-     highlightColor = "#f5821f"
+  highlightColor = "#f5821f"
 
 [Params]
   customJS = ["https://code.jquery.com/jquery-3.7.1.min.js"]
@@ -32,22 +32,22 @@ languageCode = 'en_US'
 
 [menu]
 # HOME
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url="/home"
-    weight = 1000
-  [[menu.main]]
-    identifier = "news"
-    name = "News"
-    url="/news"
-    weight = 1000
+ [[menu.main]]
+   identifier = "home"
+   name = "Home"
+   url="/home"
+   weight = 1000
+ [[menu.main]]
+   identifier = "news"
+   name = "News"
+   url="/news"
+   weight = 1000
 # DATES
-  [[menu.main]]
-    identifier = "dates"
-    name = "Dates"
-    url="/dates"
-    weight = 2000
+ [[menu.main]]
+   identifier = "dates"
+   name = "Dates"
+   url="/dates"
+   weight = 2000
 # COMPETITIONS
 #  [[menu.main]]
 #    identifier = "competitions"
@@ -80,68 +80,53 @@ languageCode = 'en_US'
    url = "/DC+Launchpad/icaps_2026_dc_launchpad"
    parent = "students"
    weight = 200
-   [menu.main.params]
-      target = "_blank"
-      rel = "noopener noreferrer"
-#  [[menu.main]]
-#    identifier = "dc"
-#    name = "Doctoral Consortium"
-#    url = "/calls/dc"
-#    parent = "students"
-#    weight = 200
 # ATTENDING
-  [[menu.main]]
-    identifier = "attending"
-    name = "Attending"
-    weight = 3000
-  # [[menu.main]]
-  #   identifier = "venue"
-  #   name = "Venue"
-  #   url = "/attending/venue"
-  #   parent = "attending"
-  #   weight = 10
-  [[menu.main]]
-    identifier = "support"
-    name = "Support"
-    url = "/attending/support"
-    parent = "attending"
-    weight = 50
-#  [[menu.main]]
-#    identifier = "visit_vic"
-#    name = "Discover Victoria"
-#    url = "/attending/visit_vic"
-#    parent = "attending"
-#    weight = 51
-#  [[menu.main]]
-#    identifier = "visit_melbourne"
-#    name = "Discover Melbourne"
-#    url = "/attending/visit_melbourne"
-#    parent = "attending"
-#    weight = 50
-#  [[menu.main]]
-#    identifier = "travel"
-#    name = "Travel Information"
-#    url = "/attending/travel"
-#    parent = "attending"
-#    weight = 20
-  [[menu.main]]
-    identifier = "registration"
-    name = "Registration"
-    url = "/attending/registration"
-    parent = "attending"
-    weight = 30
+ [[menu.main]]
+   identifier = "attending"
+   name = "Attending"
+   weight = 3000
+# [[menu.main]]
+#   identifier = "venue"
+#   name = "Venue"
+#   url = "/attending/venue"
+#   parent = "attending"
+#   weight = 10
+ [[menu.main]]
+   identifier = "support"
+   name = "Support"
+   url = "/attending/support"
+   parent = "attending"
+   weight = 50
+ [[menu.main]]
+   identifier = "travel"
+   name = "Travel Information"
+   url = "/attending/travel"
+   parent = "attending"
+   weight = 30
+ [[menu.main]]
+   identifier = "registration"
+   name = "Registration"
+   url = "/attending/registration"
+   parent = "attending"
+   weight = 40
+ [[menu.main]]
+   identifier = "lunch"
+   name = "Lunch"
+   url = "/attending/lunch"
+   parent = "attending"
+   weight = 45
 #  [[menu.main]]
 #    identifier = "info"
 #    name = "General Info"
 #    url = "/attending/info"
 #    parent = "attending"
 #    weight = "40"
-  [[menu.main]]
-    identifier = "accommodation"
-    name = "Accommodation"
-    url = "/attending/accommodation"
-    parent = "attending"
-    weight = 20
+ [[menu.main]]
+   identifier = "accommodation"
+   name = "Accommodation"
+   url = "/attending/accommodation"
+   parent = "attending"
+   weight = 20
 #  [[menu.main]]
 #    identifier = "student-support"
 #    name = "Student Support"
@@ -149,70 +134,70 @@ languageCode = 'en_US'
 #    parent = "attending"
 #    weight = "50"
 # CALLS
-[[menu.main]]
-  identifier = "calls"
-  name = "Calls"
-  weight = 4000
-[[menu.main]]
-  identifier = "cfp"
-  name = "Call for Papers"
-  url = "/calls/cfp"
-  parent = "calls"
-  weight = 10
-[[menu.main]]
-  identifier = "special_tracks"
-  name = "Special Tracks"
-  url = "/calls/special_tracks"
-  parent = "calls"
-  weight = 10
-[[menu.main]]
-  identifier = "previously_published_research_track"
-  name = "Previously Published Research Track"
-  url = "/calls/previously_published_research"
-  parent = "calls"
-  weight = 10
-[[menu.main]]
-  identifier = "call_shadow_pc"
-  name = "Call for Shadow PC Members"
-  url = "/calls/shadow_pc"
-  parent = "calls"
-  weight = 20
-[[menu.main]]
-  identifier = "call_DC"
-  name = "Call for Doctoral Consortium"
-  url = "/calls/dc_call"
-  parent = "calls"
-  weight = 30
-[[menu.main]]
-  identifier = "call_launchpad"
-  name = "Call for LaunchPad Workshop"
-  url = "/calls/launchpad_call"
-  parent = "calls"
-  weight = 40
+ [[menu.main]]
+   identifier = "calls"
+   name = "Calls"
+   weight = 4000
+ [[menu.main]]
+   identifier = "cfp"
+   name = "Call for Papers"
+   url = "/calls/cfp"
+   parent = "calls"
+   weight = 10
+ [[menu.main]]
+   identifier = "special_tracks"
+   name = "Special Tracks"
+   url = "/calls/special_tracks"
+   parent = "calls"
+   weight = 10
+ [[menu.main]]
+   identifier = "previously_published_research_track"
+   name = "Previously Published Research Track"
+   url = "/calls/previously_published_research"
+   parent = "calls"
+   weight = 10
+ [[menu.main]]
+   identifier = "call_shadow_pc"
+   name = "Call for Shadow PC Members"
+   url = "/calls/shadow_pc"
+   parent = "calls"
+   weight = 20
+ [[menu.main]]
+   identifier = "call_DC"
+   name = "Call for Doctoral Consortium"
+   url = "/calls/dc_call"
+   parent = "calls"
+   weight = 30
+ [[menu.main]]
+   identifier = "call_launchpad"
+   name = "Call for LaunchPad Workshop"
+   url = "/calls/launchpad_call"
+   parent = "calls"
+   weight = 40
 # [[menu.main]]
 #   identifier = "previously_published_papers"
 #   name = "Previously Published Papers Track"
 #   url = "/calls/previously_published_papers"
 #   parent = "calls"
 #   weight = 45
-[[menu.main]]
-  identifier = "workshop_call"
-  name = "Call for Workshop Proposals"
-  url = "/calls/workshops"
-  parent = "calls"
-  weight = 15
+ [[menu.main]]
+   identifier = "workshop_call"
+   name = "Call for Workshop Proposals"
+   url = "/calls/workshops"
+   parent = "calls"
+   weight = 15
 # [[menu.main]]
 #   identifier = "tutorial_call"
 #   name = "Call for Tutorial Proposals"
 #   url = "/calls/tutorial_call"
 #   parent = "calls"
 #   weight = 50
-[[menu.main]]
-  identifier = "demos_call"
-  name = "Call for System Demonstrations"
-  url = "/calls/demos"
-  parent = "calls"
-  weight = 70
+ [[menu.main]]
+   identifier = "demos_call"
+   name = "Call for System Demonstrations"
+   url = "/calls/demos"
+   parent = "calls"
+   weight = 70
 # [[menu.main]]
 #  identifier = "dc_call"
 #  name = "Call for Doctoral Consortium"
@@ -250,71 +235,71 @@ languageCode = 'en_US'
 #    url="/submissions"
 #    weight = 6000
 # PROGRAM
-[[menu.main]]
-  identifier = "program"
-  name = "Program"
-  weight = 7000
+ [[menu.main]]
+   identifier = "program"
+   name = "Program"
+   weight = 7000
 # [[menu.main]]
 #   identifier = "overview"
 #   name = "Overview"
 #   url = "/program/overview"
 #   parent = "program"
 #   weight = 10
-# [[menu.main]]
-#   identifier = "schedule"
-#   name = "Schedule"
-#   url = "/program/schedule"
-#   parent = "program"
-#   weight = 13
-[[menu.main]]
-  identifier = "accepted-papers"
-  name = "Accepted Papers"
-  url = "/program/accepted"
-  parent = "program"
-  weight = "15"
-# [[menu.main]]
-#   identifier = "awards"
-#    name = "Awards"
-#    url = "/program/awards"
-#    parent = "program"
-#    weight = 20
-# [[menu.main]]
-#   identifier = "demos"
-#    name = "Demos"
-#    url = "/program/demos"
-#    parent = "program"
-#    weight = 20
+ [[menu.main]]
+   identifier = "schedule"
+   name = "Schedule"
+   url = "/program/schedule"
+   parent = "program"
+   weight = 13
+ [[menu.main]]
+   identifier = "accepted-papers"
+   name = "Accepted Papers"
+   url = "/program/accepted"
+   parent = "program"
+   weight = 60
+ [[menu.main]]
+   identifier = "awards"
+   name = "Awards"
+   url = "/program/awards"
+   parent = "program"
+   weight = 25
+ [[menu.main]]
+   identifier = "demos"
+   name = "Demos"
+   url = "/program/demos"
+   parent = "program"
+   weight = 55
 #  [[menu.main]]
 #    identifier = "doctoral-consortium"
 #    name = "Doctoral Consortium"
 #    url = "/program/dc"
 #    parent = "program"
 #    weight = 20
- # [[menu.main]]
- #   identifier = "keynotes"
- #   name = "Keynotes"
- #   url = "/program/keynotes"
- #   parent = "program"
- #   weight = "30"
+ [[menu.main]]
+   identifier = "keynotes"
+   name = "Keynotes"
+   url = "/program/keynotes"
+   parent = "program"
+   weight = 20
 # [[menu.main]]
 #   identifier = "panel"
 #   name = "Industry Panel"
 #   url = "/program/panel"
 #   parent = "program"
 #   weight = "35"
-  [[menu.main]]
-    identifier = "ws"
-    name = "Workshops"
-    parent = "program"
-    url = "/program/workshops-overview"
-    weight = 40
+ [[menu.main]]
+   identifier = "ws"
+   name = "Workshops"
+   parent = "program"
+   url = "/program/workshops-overview"
+   weight = 40
 ######################### TUTORIALS
-# [[menu.main]]
-#    identifier = "tutorials"
-#    parent = "program"
-#    name = "Tutorials"
-#    url = "/program/tutorial_overview"
-#    weight = "50"
+ [[menu.main]]
+   identifier = "tutorials"
+   parent = "program"
+   name = "Tutorials"
+   url = "/program/tutorials-overview"
+   weight = "50"
 # [[menu.main]]
 #    identifier = "plan_sat"
 #    name = "Planning as SAT"
@@ -443,22 +428,22 @@ languageCode = 'en_US'
   #   weight = 100
 #
 ######################### COMMITTEES
-  [[menu.main]]
-    identifier = "organisation"
-    name = "Committees"
-    weight = 9000
-  # [[menu.main]]
-  #   identifier = "pc"
-  #   name = "Program Committee"
-  #   url = "/organisation/program_committees"
-  #   parent = "organisation"
-  #   weight = 100
-  [[menu.main]]
-    identifier = "conference_chairs"
-    name = "Organizers"
-    url = "/organisation/conference_chairs"
-    parent = "organisation"
-    weight = 100
+ [[menu.main]]
+   identifier = "organisation"
+   name = "Committees"
+   weight = 9000
+ [[menu.main]]
+   identifier = "pc"
+   name = "Program Committee"
+   url = "/organisation/program_commitee"
+   parent = "organisation"
+   weight = 100
+ [[menu.main]]
+   identifier = "conference_chairs"
+   name = "Organizers"
+   url = "/organisation/conference_chairs"
+   parent = "organisation"
+   weight = 100
   # [[menu.main]]
   #   identifier = "reviewing"
   #   name = "Reviewing Guidelines"
@@ -487,11 +472,11 @@ languageCode = 'en_US'
   #   parent = "organisation"
 
 # CODE OF CONDUCT
-  [[menu.main]]
-    identifier = "code_of_conduct"
-    name = "Code of Conduct"
-    url = "/code_of_conduct"
-    weight = 10000
+ [[menu.main]]
+   identifier = "code_of_conduct"
+   name = "Code of Conduct"
+   url = "/code_of_conduct"
+   weight = 10000
 
 
 [markup.goldmark.renderer]

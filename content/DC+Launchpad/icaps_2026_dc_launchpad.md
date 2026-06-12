@@ -19,6 +19,134 @@ Together, both the DC and the LaunchPad Workshop aim to:
 
 ---
 
+## Schedule
+
+<style>
+.session-block {
+    margin-bottom: 5px;
+    border-left: 4px solid #f5821f;
+    padding-left: 15px;
+}
+.session-header {
+    font-weight: bold;
+    color: #f5821f;
+    margin-bottom: 10px;
+    font-size: 1.05em;
+}
+.session-subheader {
+    color: #666;
+    font-style: italic;
+    margin-bottom: 8px;
+}
+.session-room {
+    color: #000;
+    font-style: normal;
+    font-weight: bold;
+}
+.parallel-sessions {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(45%, 1fr));
+    gap: 20px;
+    align-items: start;
+}
+.parallel-session {
+    min-width: 0;
+}
+.time-slot {
+    background-color: #e8f4f8;
+    padding: 10px;
+    margin: 20px 0;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.special-event {
+    background-color: #e6f3ff;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+</style>
+
+<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h3 style="margin: 0; font-size: 1.5em;">Saturday, June 27, 2026 — Doctoral Consortium &amp; LaunchPad Workshop</h3>
+</div>
+
+<div class="time-slot">09:00 – 09:15 — Welcome and Opening Remarks</div>
+
+<div class="parallel-sessions">
+<div class="parallel-session">
+<div class="session-block">
+<div class="session-header">Doctoral Consortium</div>
+<div class="session-subheader">Welcome and opening remarks — <span class="session-room">Meeting Room 2</span></div>
+</div>
+</div>
+
+<div class="parallel-session">
+<div class="session-block">
+<div class="session-header">LaunchPad</div>
+<div class="session-subheader">Welcome and opening remarks — <span class="session-room">Meeting Room 1</span></div>
+</div>
+</div>
+</div>
+
+<div class="time-slot">09:15 – 10:30 — Invited Talks</div>
+
+<div class="parallel-sessions">
+<div class="parallel-session">
+<div class="session-block">
+<div class="session-header">Doctoral Consortium</div>
+<div class="session-subheader">Invited talk by Andrea Micheli — <span class="session-room">Meeting Room 2</span></div>
+</div>
+</div>
+
+<div class="parallel-session">
+<div class="session-block">
+<div class="session-header">LaunchPad</div>
+<div class="session-subheader">Invited talk by David Speck — <span class="session-room">Meeting Room 1</span></div>
+</div>
+</div>
+</div>
+
+<div class="special-event">10:30 – 11:00 — Coffee Break</div>
+
+<div class="time-slot">11:00 – 12:00 — Invited Talk &amp; Panel</div>
+
+<div class="parallel-sessions">
+<div class="parallel-session">
+<div class="session-block">
+<div class="session-header">Doctoral Consortium</div>
+<div class="session-subheader">Invited talk by (Best Dissertation) Award Winner — <span class="session-room">Meeting Room 2</span></div>
+</div>
+</div>
+
+<div class="parallel-session">
+<div class="session-block">
+<div class="session-header">LaunchPad</div>
+<div class="session-subheader">Panel — <span class="session-room">Meeting Room 1</span></div>
+</div>
+</div>
+</div>
+
+<div class="special-event">12:00 – 13:30 — Lunch</div>
+
+<div class="special-event">13:30 – 14:30 — Spotlight Presentation 1 — Meeting Room 1+2</div>
+
+<div class="special-event">14:30 – 15:30 — Poster Session 1 — Meeting Room 6</div>
+
+<div class="special-event">15:30 – 16:00 — Coffee Break</div>
+
+<div class="special-event">16:00 – 17:00 — Spotlight Presentation 2 — Meeting Room 1+2</div>
+
+<div class="special-event">17:00 – 18:00 — Poster Session 2 — Meeting Room 6</div>
+
+<div class="special-event">18:00 – 18:15 — Closing Remarks — Meeting Room 1+2</div>
+
+<div class="special-event">19:00 – Open End — DC Dinner @ The Bridge 1859</div>
+
+---
+
 ## Who Should Attend?
 
 ### Doctoral Consortium (DC)
@@ -39,10 +167,10 @@ Exact dates and times will be announced on the ICAPS 2026 website. All deadlines
 Planned deadlines include:
 
 - DC Mentoring Program application deadline: ~~March 9, 2026~~  
-- DC Mentoring Program notification:  March 27, 2026
+- DC Mentoring Program notification:  ~~March 27, 2026~~
 - LaunchPad Workshop application deadline: ~~March 9, 2026~~
-- LaunchPad Workshop notification:  March 27, 2026
-- DC & LaunchPad day at ICAPS 2026: June 27, 2026
+- LaunchPad Workshop notification:  ~~March 27, 2026~~
+- DC & LaunchPad day at ICAPS 2026: ~~June 27, 2026~~
 
 ~~Applications for the DC Mentoring Program and the LaunchPad Workshop submitted after March 9 may still be considered if places remain available. However, priority for any available student support/funding will be given to applications submitted by the deadline.~~
 
