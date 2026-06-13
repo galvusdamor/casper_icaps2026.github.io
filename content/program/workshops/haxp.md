@@ -8,7 +8,7 @@ draft: false
 
 ICAPS 2026 Workshop <br/>
 Dublin, Ireland
-June 28-29, 2026
+June 28, 2026
 <!-- Room 6, Melbourne Connect, <br/>
 Melbourne, Victoria, Australia <br/>
 November 10, 2025 -->
@@ -63,13 +63,46 @@ Stylianos Loukas Vasileiou, Antonio Rago, Maria Vanina Martinez, and William Yeo
 
 
 
+## Accepted Papers
+
+*The workshop program will be coming soon.*
+
+- **How Hard Is It to Lie in Model Reconciliation?**  
+  Huanghua Sheng, Pascal Bercher, Sarath Sreedharan
+
+- **Generalized Execution for Dialogue Planning**  
+  Victoria Armstrong, Christian Muise
+
+- **Iterative Planning with MUGS Explanations: Exploring the Design Space**  
+  Johannes Schmalz, David Groß, Rebecca Eifler, Julián Méndez, Raimund Dachselt, Stefan Gumhold, Jörg Hoffmann
+
+- **Generating Explainable Counterfactual Policies through Temporal Logic Queries**  
+  Arnaud Lequen, Clément Legrand-Lixon, Léo Saulières
+
+- **Constraint based Plan Distance Metric for Operator-Centric Replanning in Multi-Agent Progression Missions**  
+  Emile Siboulet, Arthur Bit-Monnot, Marc-Emmanuel Coupvent des Graviers, Christophe Guettier
+
+- **An Epistemic Human-Aware Task Planner Integrating Agents Expectations**  
+  Gabriele Sartor, Rachid Alami
+
+- **Explaining Symbolic Action Policies using Facet Reasoning**  
+  Jennifer Santos, Johannes K Fichte, Daniel Gnad
+
+- **Do You Even Know What I Want? Improving LLMs Ability to Detect Hidden User Intent**  
+  Kelsey Sikes, Sarath Sreedharan
+
+- **Can LLMs Explain Plans Well?**  
+  Philip D. Hopkins, Stylianos Loukas Vasileiou, Sarath Sreedharan
+
+
+
 ## Important Dates
 
 * **Paper submission deadline: ~~May 10~~ May 17, 2026 UTC-12**
 * Notification of acceptance: June 10, 2026 UTC-12
 * Camera-ready paper submissions: TBD
 
-* Workshop date: June 28/29 (**TBD**), 2026
+* Workshop date: June 28, 2026
 
 ## Submission Details
 

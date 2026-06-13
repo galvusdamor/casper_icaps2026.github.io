@@ -16,7 +16,65 @@ Paper submission deadline extended to 2nd of May, 2026.
 
 AI Planning & Scheduling (P&S) methods are crucial to enabling intelligent robots to perform autonomous, flexible, and interactive behaviors, but they must be tightly integrated into the overall robot architecture in order to be effective. This requires strong collaboration between researchers from both the AI and the Robotics communities. To foster this, the workshop aims to provide a stable, long-term forum where researchers from both the P&S and Robotics communities can openly discuss relevant issues such as research and development progress, future directions, and open challenges related to P&S when applied to Robotics. Recent advances in large-scale learning models, multimodal perception, and whole-body robotic systems are reshaping the landscape of planning and execution. The 2026 edition of PlanRob explicitly aims to address these emerging challenges, with a focus on integrating symbolic, geometric, and learning-based approaches for robust, scalable, and adaptive robot autonomy.
 
+## Accepted Papers
+* Eyal Tadmor, Erez Karpas and Marc Toussaint. Data-Driven Metareasoning in Search in Infinite Completion Trees for Task and Motion Planning<br>
+* Andrew Coles, Erez Karpas, Shahaf Shperberg, Solomon Eyal Shimony and Wheeler Ruml. Situated Planning with Soft Goals<br>
+* Björn Döschl, Jake Olkin, Prakash Jamakatel, Brian Williams and Jane Jean Kiam. DELTA: Decentralized Delay-Aware Executive Layer with Task Anticipation for Multi-UAV Systems<br>
+* Lidor Erez, Shahaf Shperberg and Ayal Taitler. From Kinematics to Dynamics: Learning to Refine Hybrid Plans for Physically Feasible Execution<br>
+* Sarthak Chittawar, Vansh Garg, Aditya Vadali, Krish Pandya, Rohit Jayanti, Sourav Garg and K Madhava Krishna. PixelLoop: Shortcut Topological Navigation with Pixel-Level Loop Closures<br>
+* Simon Ferrier, Alessandro Renzaglia and Olivier Simonin. AttrAP: a New Heuristic-Based Method to Solve Heterogeneous MRTA Problems Minimizing the Makespan<br>
+* Paolo Forte, Uwe Köckemann and Alessandro Saffiotti. EuroCore: Enabling Reproducible Planning and Robotics Workflows\\ on the European AI-on-Demand Platform<br>
+* Guy Azran, Michael Navat and Sarah Keren. Robust Visual Planning under Partial Observability and Perceptual Uncertainty<br>
+* Qi Heng Ho, Zachary Sunberg and Morteza Lahijanian. Sampling-based Task and Kinodynamic Motion Planning under Semantic Uncertainty<br>
+* Samantha Papais and Christian Muise. Using Automated Planning for the Safety Protocol Verification of Space Robotics<br>
+* Taisei Hirayama, Kohei Yoshida, Hiroki Sakaji and Itsuki Noda. Fixed-Haven Reservation for Online Multi-Agent Pickup and Delivery in Dense Warehouses<br>
+* Gloria Beraldo, Alessandro Umbrico and Andrea Orlandini. Toward a Unified Framework for Dynamic Task Allocation and Adaptive Synergy in Hybrid Emergency Response Teams<br>
+* Mohammad Ibrahim Memon, Ujjwal Patil, Iman Awaad and Youssef Mahmoud Youssef. Learning Interpretable Scheduling Policies for Online Multi-Robot Task Allocation via Inductive Logic Programming<br>
+* Yigit Yildirim, Giuseppe Rauso, Riccardo Caccavale and Alberto Finzi. Inverse Manipulation through Symbolic Planning and Residual Operator Learning
 
+## Invited Talk by [STEVE CHIEN](https://ai.jpl.nasa.gov/public/people/chien/)
+<img src="https://ai.jpl.nasa.gov/public/people/chien/images/chien.jpg" alt="Alt Text" width="300">
+
+*Title*: Trusted AI on Mars
+
+*Abstract*: In October 2023, the Onboard Planner (OBP) took control of the Perseverance rover on Mars, over 200 million miles from Earth. As of December 2025, OBP has operated for over 400 tactical plans covering over 700 Martian days (sols) and has: executed over 12000 activities requested by scientists and engineers, driven over 20 kilometers, acquired over 100,000 images, and collected more than 10 rock core samples. In contrast to the traditional form of operations, where operators provide a rigid set of instructions for the rover, with OBP Perseverance revises its schedule an average of 16 times each day to stay responsive in a dynamic Martian environment where things don’t always go as expected. This flexibility allows the mission to manage resources such as energy more efficiently and therefore accomplish more science. In this talk, we discuss the approach to ensuring that a search-based AI system, specifically the Onboard Planner, would (1) achieve mission objectives; and critically (2) protect the rover, a multi-billion dollar one of a kind asset. We describe the “whole lifecycle” approach to developing trusted autonomy software for M2020, spanning: conception, design, analysis, prototyping, and testing. We then describe the incremental rollout and training to smooth the transition to operations with increased onboard autonomy. Next we discuss how the OBP software has improved mission return in quantity and quality in several ways. Finally we describe the even greater challenges of autonomy in future missions to hunt for life beyond Earth.
+
+*Bio-sketch*: Steve Chien is a Technical Fellow in Artificial Intelligence and Co-head of the [Artificial Intelligence Group](https://ai.jpl.nasa.gov/) at the Jet Propulsion Laboratory, California Institute of Technology. He has spent decades deploying AI/Autonomy to numerous space missions including: Earth Observing One, Sensorweb, ESA’s Rosetta Orbiter, and M2020. He has been awarded five NASA Medals in 1997, 2000, 2007, 2015, and 2025 for development and deployment of AI technologies for space missions. He has supported numerous government bodies including the Defense Science Board and the Air Force Scientific Advisory Board.  He was appointed by Congress to the National Security Commission on Artificial Intelligence (2018-2021).  He also served on the Army Science Board from 2023-2025.
+
+## Invited Talk by [NICK HAWES](https://eng.ox.ac.uk/people/nick-hawes)
+<img src="https://www.istc.cnr.it/sites/default/files/nick-hawes-happy.jpeg" alt="Alt Text" width="300">
+
+
+*Title*: Long-Range Underwater Glider Planning Under Uncertainty
+
+*Abstract*: Underwater gliders are workhorses of ocean sampling. They’re slow but energy-efficient, capable of operating for many months at sea. However, they're notoriously hard to pilot: glider dynamics are uncertain and strongly influenced by ocean currents (which are also hard to forecast), and glilders are only in contact with operators during brief surfacing windows between dives. Therefore the long-term autonomous operation of gliders fleets has remained largely aspirational, with most missions still leaning heavily on human pilots. In this talk I'll present GALE, the Glider Autonomy Long-term Planning Engine, which treats glider piloting as a stochastic shortest-path MDP and solves it online with Monte Carlo Tree Search (MCTS). The MCTS samples are drawn from a physics-informed simulator whose parameters are fitted to historical glider data, capturing both control-execution noise and ocean-current forecast uncertainty while staying cheap enough to roll out at every surfacing. I'll describe how the system was deployed in two North Sea missions totalling around three months and 1000 km of fully autonomous operation (to date the most extensive deployment of online glider navigation planning) and what we learned about where model-based probabilistic planning outperforms simpler baselines.
+ 
+*Bio-sketch*: Nick Hawes is a Professor of AI and Robotics in the [Department of Engineering Science](https://eng.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/), where he directs the [Oxford Robotics Institute (ORI)](https://ori.ox.ac.uk/), a federation of eight research groups. He is also a Tutorial Fellow at [Pembroke College](https://pmb.ox.ac.uk/). Within ORI, he leads the [Goal-Oriented Autonomous Long-Lived Systems (GOALS)](https://ori.ox.ac.uk/groups/goals) group, researching sequential decision-making for autonomous systems and multi-agent teams. He has led world-first deployments of AI-controlled robots, including long-term autonomous mobile robots in care and security, quadrupeds inspecting active nuclear sites, and AUVs gathering data on underwater ecosystems. He is a member of the [UK Government's Robotics Advisory Group](https://www.gov.uk/government/groups/robotics-advisory-group), an Associate Editor of the [Journal of AI Research](https://www.jair.org/), a Senior Member of [AAAI](https://aaai.org/), and Chief Scientist of [Stateful Robotics](https://statefulrobotics.com/).
+
+## PlanRob Schedule (Draft to be confirmed)
+
+* 09.00 **WS Introduction** <br>
+* 09.10 **Keynote talk by <a href="https://github.com/pstlab/icaps2026.github.io.planrob/blob/main/content/program/workshops/planrob.md#invited-talk-by-nick-hawes">Nick Hawes</a>** <br>
+* 10.10 Emanuele Musumeci, Abdel Hakim Drid and Daniele Nardi, Rob-LAPIS: Grounding Verbal Household Robot Instructions via Iterative PDDL Synthesis <br>
+* 10.20 **Coffee Break** <br>
+* 10.50 Eyal Tadmor, Erez Karpas and Marc Toussaint, Data-Driven Metareasoning in Search in Infinite Completion Trees for Task and Motion Planning<br>
+* 11.05 Lidor Erez, Shahaf Shperberg and Ayal Taitler, From Kinematics to Dynamics: Learning to Refine Hybrid Plans for Physically Feasible Execution<br>
+* 11.20 Qi Heng Ho, Zachary Sunberg and Morteza Lahijanian, Sampling-based Task and Kinodynamic Motion Planning under Semantic Uncertainty<br>
+* 11.35 Sarthak Chittawar, PixelLoop: Shortcut Topological Navigation with Pixel-Level Loop Closures<br>
+* 11.50 Björn Döschl, Jake Olkin, Prakash Jamakatel, Brian Williams and Jane Jean Kiam, DELTA: Decentralized Delay-Aware Executive Layer with Task Anticipation for Multi-UAV Systems<br>
+* 12.05 Guy Azran, Michael Navat and Sarah Keren, Robust Visual Planning under Partial Observability and Perceptual Uncertainty<br>
+* 12.20 Samantha Papais, Using Automated Planning for the Safety Protocol Verification of Space Robotics<br>
+* 12.30 **Lunch Break** <br>
+* 14.00 **Keynote talk by <a href="https://github.com/pstlab/icaps2026.github.io.planrob/blob/main/content/program/workshops/planrob.md#invited-talk-by-steve-chien">Steve Chien</a>** <br>
+* 15.00 Yigit Yildirim, Giuseppe Rauso, Riccardo Caccavale and Alberto Finzi, Inverse Manipulation through Symbolic Planning and Residual Operator Learning<br>
+* 15.15 Andrew Coles, Erez Karpas, Shahaf Shperberg, Solomon Eyal Shimony and Wheeler Ruml, Situated Planning with Soft Goals<br>
+* 15.30 **Coffee Break** <br>
+* 15.50 Paolo Forte, Uwe Köckemann and Alessandro Saffiotti, EuroCore: Enabling Reproducible Planning and Robotics Workflows on the European AI-on-Demand Platform<br>
+* 16.05 Simon Ferrier, Alessandro Renzaglia and Olivier Simonin, AttrAP: a New Heuristic-Based Method to Solve Heterogeneous MRTA Problems Minimizing the Makespan<br>
+* 16.20 Taisei Hirayama, Kohei Yoshida, Hiroki Sakaji and Itsuki Noda, Taisei Hirayama, Kohei Yoshida, Hiroki Sakaji and Itsuki Noda<br>
+* 16.35 Mohammad Ibrahim Memon, Ujjwal Patil, Iman Awaad and Youssef Mahmoud Youssef, Learning Interpretable Scheduling Policies for Online Multi-Robot Task Allocation via Inductive Logic Programming<br>
+* 16.50 Gloria Beraldo, Alessandro Umbrico and Andrea Orlandini, Toward a Unified Framework for Dynamic Task Allocation and Adaptive Synergy in Hybrid Emergency Response Teams<br>
+* 17.05 **Closing remarks** <br>
 
 ## Topics of Interest
 
@@ -56,25 +114,6 @@ Important goals of the workshop are the discussion of solutions, results, open i
 - ICAPS 2026 Workshops: June 28-29, 2026
 
 Note that at the date of the submission deadline, all papers need to be registered, which includes all relevant information such as title, abstract, authors, and kind of paper (long, short, ...). 
-
-## Invited Talk by [STEVE CHIEN](https://ai.jpl.nasa.gov/public/people/chien/)
-<img src="https://ai.jpl.nasa.gov/public/people/chien/images/chien.jpg" alt="Alt Text" width="300">
-
-*Title*: Trusted AI on Mars
-
-*Abstract*: In October 2023, the Onboard Planner (OBP) took control of the Perseverance rover on Mars, over 200 million miles from Earth. As of December 2025, OBP has operated for over 400 tactical plans covering over 700 Martian days (sols) and has: executed over 12000 activities requested by scientists and engineers, driven over 20 kilometers, acquired over 100,000 images, and collected more than 10 rock core samples. In contrast to the traditional form of operations, where operators provide a rigid set of instructions for the rover, with OBP Perseverance revises its schedule an average of 16 times each day to stay responsive in a dynamic Martian environment where things don’t always go as expected. This flexibility allows the mission to manage resources such as energy more efficiently and therefore accomplish more science. In this talk, we discuss the approach to ensuring that a search-based AI system, specifically the Onboard Planner, would (1) achieve mission objectives; and critically (2) protect the rover, a multi-billion dollar one of a kind asset. We describe the “whole lifecycle” approach to developing trusted autonomy software for M2020, spanning: conception, design, analysis, prototyping, and testing. We then describe the incremental rollout and training to smooth the transition to operations with increased onboard autonomy. Next we discuss how the OBP software has improved mission return in quantity and quality in several ways. Finally we describe the even greater challenges of autonomy in future missions to hunt for life beyond Earth.
-
-*Bio-sketch*: Steve Chien is a Technical Fellow in Artificial Intelligence and Co-head of the [Artificial Intelligence Group](https://ai.jpl.nasa.gov/) at the Jet Propulsion Laboratory, California Institute of Technology. He has spent decades deploying AI/Autonomy to numerous space missions including: Earth Observing One, Sensorweb, ESA’s Rosetta Orbiter, and M2020. He has been awarded five NASA Medals in 1997, 2000, 2007, 2015, and 2025 for development and deployment of AI technologies for space missions. He has supported numerous government bodies including the Defense Science Board and the Air Force Scientific Advisory Board.  He was appointed by Congress to the National Security Commission on Artificial Intelligence (2018-2021).  He also served on the Army Science Board from 2023-2025.
-
-## Invited Talk by [NICK HAWES](https://eng.ox.ac.uk/people/nick-hawes)
-<img src="https://www.istc.cnr.it/sites/default/files/nick-hawes-happy.jpeg" alt="Alt Text" width="300">
-
-
-*Title*: Long-Range Underwater Glider Planning Under Uncertainty
-
-*Abstract*: Underwater gliders are workhorses of ocean sampling. They’re slow but energy-efficient, capable of operating for many months at sea. However, they're notoriously hard to pilot: glider dynamics are uncertain and strongly influenced by ocean currents (which are also hard to forecast), and glilders are only in contact with operators during brief surfacing windows between dives. Therefore the long-term autonomous operation of gliders fleets has remained largely aspirational, with most missions still leaning heavily on human pilots. In this talk I'll present GALE, the Glider Autonomy Long-term Planning Engine, which treats glider piloting as a stochastic shortest-path MDP and solves it online with Monte Carlo Tree Search (MCTS). The MCTS samples are drawn from a physics-informed simulator whose parameters are fitted to historical glider data, capturing both control-execution noise and ocean-current forecast uncertainty while staying cheap enough to roll out at every surfacing. I'll describe how the system was deployed in two North Sea missions totalling around three months and 1000 km of fully autonomous operation (to date the most extensive deployment of online glider navigation planning) and what we learned about where model-based probabilistic planning outperforms simpler baselines.
- 
-*Bio-sketch*: Nick Hawes is a Professor of AI and Robotics in the [Department of Engineering Science](https://eng.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/), where he directs the [Oxford Robotics Institute (ORI)](https://ori.ox.ac.uk/), a federation of eight research groups. He is also a Tutorial Fellow at [Pembroke College](https://pmb.ox.ac.uk/). Within ORI, he leads the [Goal-Oriented Autonomous Long-Lived Systems (GOALS)](https://ori.ox.ac.uk/groups/goals) group, researching sequential decision-making for autonomous systems and multi-agent teams. He has led world-first deployments of AI-controlled robots, including long-term autonomous mobile robots in care and security, quadrupeds inspecting active nuclear sites, and AUVs gathering data on underwater ecosystems. He is a member of the [UK Government's Robotics Advisory Group](https://www.gov.uk/government/groups/robotics-advisory-group), an Associate Editor of the [Journal of AI Research](https://www.jair.org/), a Senior Member of [AAAI](https://aaai.org/), and Chief Scientist of [Stateful Robotics](https://statefulrobotics.com/).
 
 ## Submission Instructions
 

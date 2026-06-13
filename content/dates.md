@@ -1,6 +1,6 @@
 ---
 title: "Dates"
-date: 2022-09-29T13:23:05+02:00
+date: 2026-06-09T13:23:05+02:00
 draft: false
 ---
 
@@ -22,8 +22,8 @@ anywhere in the world.
 - ~~March 2, 2026:~~ Doctoral Consortium applications due
 - ~~March 18, 2026:~~ Previously Published Research due
 - ~~April 6, 2026:~~ System Demonstrations due
-- **April 21, 2026:** Summer school registration deadline (incl. accommodation)
-- **May 7, 2026:** Summer school registration deadline (no accommodation)
+- ~~April 21, 2026:~~ Summer school registration deadline (incl. accommodation)
+- ~~May 7, 2026:~~ Summer school registration deadline (no accommodation)
 
 <!--- 
 - March 31, 2025 - Workshop acceptance notification

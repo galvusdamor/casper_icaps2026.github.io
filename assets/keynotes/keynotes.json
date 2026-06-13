@@ -1,31 +1,31 @@
 {
 	"keynotes": [
 		{
-			"name": "Hanna Kurniawati",
-			"date": "12th November 2025",
-			"img" : "/img/keynotes/hanna.jpg",
-			"title": "Coming soon",
-			"webpage" : "https://users.cecs.anu.edu.au/~hannakur/",
-			"abstract": "Coming soon",
-			"bio": "Coming soon"
+			"name": "Nick Hawes",
+			"date": "Tuesday, June 30",
+			"img" : "/img/keynotes/nick-hawes.jpeg",
+			"title": "Better Autonomy Through Uncertainty",
+			"webpage" : "https://ori.ox.ac.uk/people/nick-hawes",
+			"abstract": "Real robots perceive imperfectly, act unreliably, and rarely have an accurate model of the world they're operating in. Therefore any long-running, goal-directed robot mission has to treat uncertainty as a first-class concern rather than an afterthought. For over a decade we've approached this through an explicitly model-based, decision-theoretic planning framework that integrates learning and supports a range of specification types. In this talk I'll show how that framework, adapted across deployments, supports real robots ranging from mobile service platforms to underwater vehicles and quadrupeds.",
+			"bio": "Nick Hawes is a Professor of AI and Robotics in the Department of Engineering Science at the University of Oxford, where he directs the Oxford Robotics Institute (ORI), a federation of eight research groups. He is also a Tutorial Fellow at Pembroke College. Within ORI, he leads the Goal-Oriented Autonomous Long-Lived Systems (GOALS) group, researching sequential decision-making for autonomous systems and multi-agent teams. He has led world-first deployments of AI-controlled robots, including long-term autonomous mobile robots in care and security, quadrupeds inspecting active nuclear sites, and AUVs gathering data on underwater ecosystems. He is a member of the UK Government's Robotics Advisory Group, an Associate Editor of the Journal of AI Research, a Senior Member of AAAI, and Chief Scientist of Stateful Robotics."
 		},
 		{
-			"name": "Bistra Dilkina",
-			"date": "13th November 2025",
-			"img" : "/img/keynotes/bistra.png",
-			"title": "Coming soon",
-			"webpage" : "https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra",
-			"abstract": "Coming soon",
-			"bio": "Coming soon"
+			"name": "Nora Ayanian",
+			"date": "Wednesday, July 1",
+			"img" : "/img/keynotes/nora-ayanian.jpg",
+			"title": "From Agents to Robots",
+			"webpage" : "https://cs.brown.edu/people/faculty/nayanian/",
+			"abstract": "The deployment of automated planning and scheduling into domains such as autonomous warehouses, just in time manufacturing, aerial swarms, and marine operations, brings with it the challenges of physical systems: embodiment, kinematics, dynamics, and uncertainty. If we make abstract assumptions about our agents (e.g., operating in discrete grid worlds, graphs, or perfect execution) our robots will crash directly into the realities of the physical world. However, planning directly in the high dimensional space of many physical robots plus the uncertainties of the robots and the environment is intractable. This keynote explores the fundamental paradigm shift required when transitioning automated planning frameworks from agents to robots. We explore how the physical nature of robots reshapes plan generation, optimization, and runtime execution. Moving beyond discrete routing, true physical realization demands navigating continuous dynamics, actuation limitations, and complex, unmodeled environment interactions. We will also discuss the intersection of classic multi-agent path finding (MAPF) and physical constraints, demonstrating how map topology and the integration of kinematic constraints can affect the empirical hardness and solvability of planning instances. Ultimately, we show that translating automated planning into successful physical deployment requires co-designing planning models alongside the physical realities they are meant to govern.",
+			"bio": "Nora Ayanian is an Associate Professor of Computer Science and Engineering and director of the Automatic Coordination of Teams Lab at Brown University. She received the Ph.D. and M.S. degrees in Mechanical Engineering from the University of Pennsylvania. Prior to joining Brown, Ayanian was Associate Professor of Computer Science at the University of Southern California and a postdoctoral associate at MIT’s CSAIL. Ayanian studies and develops end-to-end solutions for coordinating teams of robots, combining automation and artificial intelligence to create autonomous collaboration and control.  Her work is broadly applicable across all aspects of multi-robot systems, including manufacturing, warehousing, and environmental monitoring. Ayanian was named as one of the MIT Technology Review’s 2016 Innovators Under 35 (TR35) as “Visionary”. She is the recipient of the NSF CAREER award, the Okawa Foundation Research Grant, and, with her coauthors, best paper in the robotics track at ICAPS 2016. She has also been honored as one of mic.com’s Mic 50, and as one of IEEE Intelligent Systems “AI’s 10 to Watch”. Her research has been covered by USA Today, Discovery Channel Canada, Tech Insider UK, and other outlets. "
 		},
 		{
-			"name": "Son Tran",
-			"date": "14th November 2025",
-			"img" : "/img/keynotes/son.png",
-			"title": "Coming soon",
-			"webpage": "https://computerscience.nmsu.edu/facultydirectory/individual-bio-pages/son-tran.html",
-			"abstract": "Coming soon",
-			"bio": "Coming soon"
+			"name": "Pascal Bercher",
+			"date": "Thursday, July 2",
+			"img" : "/img/keynotes/pascal-bercher.jpg",
+			"title": " Planning with Hierarchies: An Invitation",
+			"webpage" : "https://comp.anu.edu.au/people/pascal-bercher/",
+			"abstract": "What is hierarchical planning? Just a different solving algorithm? A way to incorporate advice on how to solve a problem? Or a way to impose richer constraints on what's considered a valid solution? In this talk, I will lay out the foundational background needed to answer these questions, highlight milestone achievements in the field, and point out differences and similarities between classical planning and its hierarchical counterparts. The talk also acts as an invitation: every interesting research question studied in classical planning has its hierarchical counterpart, waiting to be decomposed into concrete research plans.",
+			"bio": "Pascal Bercher is an Associate Professor at the School of Computing at the Australian National University, Australia, an ARC DECRA Fellow, and a AAAI Senior Member. His research focuses on Automated Planning, in particular Hierarchical Task Network (HTN) planning and Partial Order Causal Link (POCL) planning, combining theoretical analysis with the design of algorithms and heuristics. He also works on automated modelling support for hierarchical and non-hierarchical planning, focusing on correcting flawed models. His work has received several awards, including the ICAPS Best Dissertation Award 2019 and multiple best paper and best student paper awards at ICAPS and other AI venues. He regularly serves the AI and AI Planning communities in senior roles and has received several recognitions for outstanding reviewing. He co-organized the first International Planning Competition on HTN planning in 2020 and is a co-founder of the annual ICAPS workshop on Hierarchical Planning (HPlan), which he has chaired since its first edition in 2018. He also created and maintains hierarchical-task.net, a community hub for HTN planning."
 		}
 	]
 }

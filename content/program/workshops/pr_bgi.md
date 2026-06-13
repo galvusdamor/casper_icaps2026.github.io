@@ -55,9 +55,45 @@ Papers must be prepared according to the instructions for ICAPS 2026 (in AAAI fo
 
 * **Paper submission deadline: ~~May 18~~ May 25, 2026 UTC-12**
 * Notification of acceptance: June 10, 2026 UTC-12
-* Camera-ready paper submissions: TBD
+* Camera-ready paper submissions: June 24, 2026 UTC-12
 
 * **Workshop date: June 28 afternoon**, 2026
+
+
+
+## Accepted Papers
+
+*The workshop program will be coming soon.*
+
+- **RP-M*P: Extending Epistemic Planning with Dynamic Desires and Intentions**  
+  Rebecca Leah De Venezia, Christian Muise
+
+- **Hardness of MAPF under Destination Uncertainty**  
+  P. Maurice Dekker
+
+- **SMT-Based Goal and Plan Recognition**  
+  Kin Max Piamolini Gusmão, Joan Espasa, Miquel Ramirez, Mustafa Faisal Zaki Abdelwahed, Nir Lipovetzky, Felipe Meneguzzi
+
+- **Divergence Identities for Probabilistic Goal Recognition**  
+  Giacomo Rosa, Nir Lipovetzky, Jean Honorio, Sebastian Sardina
+
+- **Epistemic Ambiguity Is a Design Problem: Toward Complete Online Planning with Verified Actions**  
+  Halim Djerroud
+
+- **Synthesis Under Multi-Agent Environment Assumptions for Specifications in Linear Temporal Logic on Finite Traces**  
+  Stella Condrò, Giuseppe De Giacomo, Gianmarco Parretti, Elisa Santini
+
+- **Synthesis Foundations for Online LTLf Goal Management**  
+  Giuseppe De Giacomo, Yves Lesperance, Gianmarco Parretti, Fabio Patrizi
+
+- **A LETHEIA: Adaptive Epistemic Planning over Kripke Models with DEL Product-Update Semantics**  
+  Haniel Ulises Vasquez Morales
+
+- **Concurrent Action Models for DEL**  
+  Ludovico Deponte
+
+- **Generation of Suspicious Behaviour**  
+  Peta Masters, Daniel Gallagher, Gal A Kaminka, Mor Vered
 
 
 
