@@ -45,6 +45,163 @@ Submitted papers should use the [AAAI Author Kit](https://aaai.org/authorkit26-1
 
 Submissions must be in PDF format and will be handled via the [EasyChair Conference system](https://easychair.org/my/conference?conf=casper2026).
 
+## Accepted Papers
+
+* A Comparison of Unsolvability Certificates in Planning and Model Checking  
+**Malte Helmert and Tanja Schindler**
+* An Automata-Based Constraint Programming Framework for Optimal Classical Planning (Extended Abstract)  
+**Damien Van Meerbeeck, Arnaud Lequen, Gilles Pesant and Jendrik Seipp**
+* CP-WSP: A Declarative CP-SAT Framework for Configurable Multi-Constraint Workforce Scheduling  
+**Vipul Patel, Anirudh Deodhar and Dagnachew Birru**
+* Guiding CP Search for Recurring Vehicle Routing Problems with Learned Heuristics  
+**Marc-Emmanuel Coupvent des Graviers, Jeremy Turi and Christophe Guettier**
+* Learning Heuristics to Solve Routing Problems Increasingly Faster  
+**Marc-Emmanuel Coupvent des Graviers, Jeremy Turi and Christophe Guettier**
+* Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts  
+**João Felipe, Álvaro Torralba and Gregor Behnke**
+* Lifted Planning as SMT  
+**Miquel Bofill, Cristina Borralleras and Josu Oca**
+* Towards Qualitative Constraint-Based HTN Planning: A Research Agenda  
+**Tobias Schwartz, Christopher Walther and Diedrich Wolter**
+* Leveraging CP for Numeric-to-Classical Planning Compilations  
+**Carla Davesa Sureda, Joan Espasa Arxer, Ian Miguel and Mateu Villaret**
+* An Insertion-Based Linked List Variable and Regular Constraint for Classical Planning with Constraint Programming  
+**Damien Van Meerbeeck**
+* Planning and Scheduling, What’s the Difference Anyway?  
+**Arthur Bit-Monnot**
+
+<!--
+## Workshop Schedule
+
+<style>
+.hsdip-schedule {
+  --accent: #f5821f;
+  --accent-soft: #fff4ea;
+  --line: #ededed;
+  margin: 1.5rem 0 2.5rem;
+}
+.hsdip-schedule .hsdip-day {
+  margin: 0 0 .25rem;
+  font-size: 1.45rem;
+  color: #2b2b2b;
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: .3rem;
+}
+.hsdip-schedule .hsdip-session {
+  display: flex;
+  align-items: baseline;
+  gap: .6rem;
+  margin: 1.9rem 0 .6rem;
+}
+.hsdip-schedule .hsdip-session .name {
+  font-size: 1.12rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+.hsdip-schedule .hsdip-session .clock {
+  font-size: .9rem;
+  color: #777;
+  font-variant-numeric: tabular-nums;
+}
+.hsdip-schedule .hsdip-note {
+  color: #666;
+  font-style: italic;
+  margin: .4rem 0 .9rem;
+}
+.hsdip-schedule table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: .4rem 0 1.1rem;
+  font-size: .92rem;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .07);
+}
+.hsdip-schedule thead { display: none; }
+.hsdip-schedule tbody td {
+  padding: .55rem .85rem;
+  border-top: 1px solid var(--line);
+  vertical-align: top;
+  line-height: 1.4;
+}
+.hsdip-schedule tbody tr:nth-child(even) { background: #faf9f8; }
+.hsdip-schedule tbody tr:hover { background: var(--accent-soft); }
+.hsdip-schedule td:first-child,
+.hsdip-schedule th:first-child {
+  white-space: nowrap;
+  font-weight: 700;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+  width: 1%;
+}
+.hsdip-schedule td:nth-child(2) { font-weight: 600; color: #222; }
+.hsdip-schedule td:nth-child(3) { color: #555; }
+.hsdip-schedule td:last-child,
+.hsdip-schedule th:last-child {
+  text-align: center;
+  white-space: nowrap;
+  width: 1%;
+  color: #888;
+  font-size: .82rem;
+  font-variant-numeric: tabular-nums;
+}
+.hsdip-schedule .hsdip-break {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  background: var(--accent-soft);
+  border-left: 4px solid var(--accent);
+  padding: .55rem .9rem;
+  margin: 1rem 0 1.6rem;
+  border-radius: 6px;
+  font-weight: 600;
+  color: #8a4b12;
+}
+@media (max-width: 600px) {
+  .hsdip-schedule table { font-size: .82rem; }
+  .hsdip-schedule td, .hsdip-schedule th { padding: .4rem .5rem; }
+}
+</style>
+
+<div class="hsdip-schedule">
+
+<div class="hsdip-break">Lunch break - 12:30-14:00</div>
+
+<h3 class="hsdip-day">Afternoon</h3>
+
+<div class="hsdip-session"><span class="name">Session 1</span><span class="clock">14:00-15:30</span></div>
+
+<p class="hsdip-note">14:00 — Opening remarks</p>
+
+| Time | Paper | Authors | 
+|------|-------|---------|
+| 14:15 |A Comparison of Unsolvability Certificates in Planning and Model Checking|Malte Helmert and Tanja Schindler|
+| 14:30 |Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts|João Felipe, Álvaro Torralba and Gregor Behnke|
+| 14:45 |Lifted Planning as SMT|Miquel Bofill, Cristina Borralleras and Josu Oca|
+| 15:00 | An Automata-Based Constraint Programming Framework for Optimal Classical Planning (Extended Abstract)|Damien Van Meerbeeck, Arnaud Lequen, Gilles Pesant and Jendrik Seipp|
+| 15:15 |Towards Qualitative Constraint-Based HTN Planning: A Research Agenda|Tobias Schwartz, Christopher Walther and Diedrich Wolter|
+
+<div class="hsdip-break">Coffee break - 15:30-15:50</div>
+
+<div class="hsdip-session"><span class="name">Session 2</span><span class="clock">15:50-17:30</span></div>
+
+| Time | Paper | Authors | 
+|------|-------|---------|
+| 15:50 |Leveraging CP for Numeric-to-Classical Planning Compilations|Carla Davesa Sureda, Joan Espasa Arxer, Ian Miguel and Mateu Villaret|
+| 16:05 |Planning and Scheduling, What’s the Difference Anyway?|Arthur Bit-Monnot|
+| 16:20 |An Insertion-Based Linked List Variable and Regular Constraint for Classical Planning with Constraint Programming|Damien Van Meerbeeck|
+| 16:35 |CP-WSP: A Declarative CP-SAT Framework for Configurable Multi-Constraint Workforce Scheduling|Vipul Patel, Anirudh Deodhar and Dagnachew Birru|
+| 16:50 |Guiding CP Search for Recurring Vehicle Routing Problems with Learned Heuristics|Marc-Emmanuel Coupvent des Graviers, Jeremy Turi and Christophe Guettier|
+| 17:05 |Learning Heuristics to Solve Routing Problems Increasingly Faster|Marc-Emmanuel Coupvent des Graviers, Jeremy Turi and Christophe Guettier|
+
+
+<p class="hsdip-note">17:20 — Closing remarks</p>
+
+</div>
+-->
+
 ## Program Committee Chairs
  
 - Gregor Behnke - University of Amsterdam
