@@ -70,7 +70,7 @@ Submissions must be in PDF format and will be handled via the [EasyChair Confere
 * Planning and Scheduling, What’s the Difference Anyway?  
 **Arthur Bit-Monnot**
 
-<!--
+
 ## Workshop Schedule
 
 <style>
@@ -200,7 +200,7 @@ Submissions must be in PDF format and will be handled via the [EasyChair Confere
 <p class="hsdip-note">17:20 — Closing remarks</p>
 
 </div>
--->
+
 
 ## Program Committee Chairs
  
