@@ -110,7 +110,7 @@ Examples of typical topics for submissions to this workshop are:
 .hsdip-schedule th:first-child {
   white-space: nowrap;
   font-weight: 700;
-  color: var(--accent);
+  color: #1a1a1a;
   font-variant-numeric: tabular-nums;
   width: 1%;
 }
@@ -153,11 +153,11 @@ Examples of typical topics for submissions to this workshop are:
 
 | Time | Paper | Authors | Len |
 |------|-------|---------|-----|
-| 9:05 | A\* with h^max Definitely Finds Optimal Plans -- Formally Verifying a Planner Based on Heuristic Search | Gregor Behnke, Simone Kilian and Malvin Gattinger | L |
-| 9:20 | Eager vs. Lazy Duplicate Detection in A\* | Yuki Suzuki and Alex Fukunaga | L |
-| 9:35 | Base Strategy Still Matters: Triangle Search in Domain-Independent Planning | Jordan Thayer, Sofia Lemons and Jendrik Seipp | L |
-| 9:50 | Compact Representatives of Potential Heuristics | Simon Dold and Malte Helmert | S |
-| 10:00 | Delete Relaxation with Axioms | Travis Rivera Petit, Simon Dold, David Speck and Malte Helmert | L |
+| 9:05 | [A\* with h^max Definitely Finds Optimal Plans -- Formally Verifying a Planner Based on Heuristic Search](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_11.pdf) | Gregor Behnke, Simone Kilian and Malvin Gattinger | L |
+| 9:20 | [Eager vs. Lazy Duplicate Detection in A\*](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_12.pdf) | Yuki Suzuki and Alex Fukunaga | L |
+| 9:35 | [Base Strategy Still Matters: Triangle Search in Domain-Independent Planning](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_14.pdf) | Jordan Thayer, Sofia Lemons and Jendrik Seipp | L |
+| 9:50 | [Compact Representatives of Potential Heuristics](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_17.pdf) | Simon Dold and Malte Helmert | S |
+| 10:00 | [Delete Relaxation with Axioms](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_9.pdf) | Travis Rivera Petit, Simon Dold, David Speck and Malte Helmert | L |
 | 10:15 | GONDOR to the Rescue: Satisficing Planning with Low Memory | Yonatan Vernik, Alexander Tuisov and Alexander Shleyfman | S |
 
 <div class="hsdip-break">Coffee break - 10:30-10:50</div>
@@ -166,13 +166,13 @@ Examples of typical topics for submissions to this workshop are:
 
 | Time | Paper | Authors | Len |
 |------|-------|---------|-----|
-| 10:50 | Parallelizing Classical Planning: Critical Path Heuristics on the GPU | Markus Fritzsche, David Speck, Daniel Gnad and Simon Ståhlberg | S |
-| 11:00 | Parallel Lifted Planning via Semi-Naive Datalog Evaluation | Dominik Drexler, Oliver Joergensen and Jendrik Seipp | L |
-| 11:15 | Distributed Parallel Datalog in Automated Planning | Oliver Joergensen, Dominik Drexler and Jendrik Seipp | L |
-| 11:30 | Dynamic Tree Databases in Automated Planning | Oliver Joergensen, Dominik Drexler and Jendrik Seipp | L |
-| 11:45 | Pattern Database Heuristics for Lifted Planning | Mika Skjelnes, Dominik Drexler, Jordan Thayer, Daniel Gnad and Jendrik Seipp | S |
-| 11:55 | Reviving Partial Order Causal Link (POCL) Planning: Is It Possible? Is It Worth It? | Scott Howsam, Harrison Oates and Pascal Bercher | L |
-| 12:10 | A Quantitative Evaluation Pipeline for Map Partitioning for Grid Pathfinding | Yan Wu, Chenyuan Zhang, Yangmengfei Xu and Guang Hu | L |
+| 10:50 | [Parallelizing Classical Planning: Critical Path Heuristics on the GPU](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_2.pdf) | Markus Fritzsche, David Speck, Daniel Gnad and Simon Ståhlberg | S |
+| 11:00 | [Parallel Lifted Planning via Semi-Naive Datalog Evaluation](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_3.pdf) | Dominik Drexler, Oliver Joergensen and Jendrik Seipp | L |
+| 11:15 | [Distributed Parallel Datalog in Automated Planning](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_13.pdf) | Oliver Joergensen, Dominik Drexler and Jendrik Seipp | L |
+| 11:30 | [Dynamic Tree Databases in Automated Planning](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_6.pdf) | Oliver Joergensen, Dominik Drexler and Jendrik Seipp | L |
+| 11:45 | [Pattern Database Heuristics for Lifted Planning](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_26.pdf) | Mika Skjelnes, Dominik Drexler, Jordan Thayer, Daniel Gnad and Jendrik Seipp | S |
+| 11:55 | [Reviving Partial Order Causal Link (POCL) Planning: Is It Possible? Is It Worth It?](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_8.pdf) | Scott Howsam, Harrison Oates and Pascal Bercher | L |
+| 12:10 | [A Quantitative Evaluation Pipeline for Map Partitioning for Grid Pathfinding](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_21.pdf) | Yan Wu, Chenyuan Zhang, Yangmengfei Xu and Guang Hu | L |
 
 <div class="hsdip-break">Lunch break - 12:30-14:00</div>
 
@@ -182,12 +182,12 @@ Examples of typical topics for submissions to this workshop are:
 
 | Time | Paper | Authors | Len |
 |------|-------|---------|-----|
-| 14:00 | When Local Plans Cannot Be Global: A Sheaf-Theoretic View of Decomposition in Numeric Planning | Jiajia Song and Guang Hu | L |
-| 14:15 | On the Optimality of Numeric Planning with Control Variables | Ángel Aso-Mollar, Diego Aineto, Enrico Scala and Eva Onaindia | L |
-| 14:30 | A Notion of Width for Numeric Planning Problems | Giacomo Rosa, Nir Lipovetzky, Jean Honorio, Sebastian Sardina and Enrico Scala | L |
-| 14:45 | Domain-Abstraction Heuristics for Simple Numeric Planning | Markus Fritzsche, Mikhail Gruntov, Alexander Shleyfman and Daniel Gnad | S |
-| 14:55 | Counting Plans with Heuristic State-Space Search | David Speck | S |
-| 15:05 | Make Yourself Special: Qualified Dominance Task Reformulation For Optimal Planning | Rasmus Tollund and Álvaro Torralba | L |
+| 14:00 | [When Local Plans Cannot Be Global: A Sheaf-Theoretic View of Decomposition in Numeric Planning](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_7.pdf) | Jiajia Song and Guang Hu | L |
+| 14:15 | [On the Optimality of Numeric Planning with Control Variables](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_16.pdf) | Ángel Aso-Mollar, Diego Aineto, Enrico Scala and Eva Onaindia | L |
+| 14:30 | [A Notion of Width for Numeric Planning Problems](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_23.pdf) | Giacomo Rosa, Nir Lipovetzky, Jean Honorio, Sebastian Sardina and Enrico Scala | L |
+| 14:45 | [Domain-Abstraction Heuristics for Simple Numeric Planning](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_1.pdf) | Markus Fritzsche, Mikhail Gruntov, Alexander Shleyfman and Daniel Gnad | S |
+| 14:55 | [Counting Plans with Heuristic State-Space Search](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_4.pdf) | David Speck | S |
+| 15:05 | [Make Yourself Special: Qualified Dominance Task Reformulation For Optimal Planning](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_15.pdf) | Rasmus Tollund and Álvaro Torralba | L |
 
 <div class="hsdip-break">Coffee break - 15:30-15:50</div>
 
@@ -195,12 +195,13 @@ Examples of typical topics for submissions to this workshop are:
 
 | Time | Paper | Authors | Len |
 |------|-------|---------|-----|
-| 15:50 | Bounded-Suboptimal Beam Search | Devin Wild Thomas, Stephen Wissow, Michael Bauer, Paige McAfee and Wheeler Ruml | L |
-| 16:05 | Computing Potential Heuristics Without Grounding PDDL Actions | Pascal Lauer, Álvaro Torralba and Daniel Fišer | L |
-| 16:20 | A Comparison of Cost Partitioning Algorithms for Multiple Sequence Alignment | Mika Skjelnes, Daniel Gnad and Jendrik Seipp | L |
-| 16:35 | Learning Admissible Heuristics via Cost Partitioning | Hugo Barral, Quentin Cappart, Marie-José Huguet and Sylvie Thiébaux | L |
-| 16:50 | Bound-Aware Heuristic Discovery with Large Language Models: A 15-Puzzle Case Study | Xiaojia Li, Csaba Kiss, Roland Molontay and József Pintér | L |
-| 17:05 | Automated Planning with Incomplete Open World Models | Mikhail Soutchanski | L |
+| 15:50 | [Bounded-Suboptimal Beam Search](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_22.pdf) | Devin Wild Thomas, Stephen Wissow, Michael Bauer, Paige McAfee and Wheeler Ruml | L |
+| 16:05 | [Computing Potential Heuristics Without Grounding PDDL Actions](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_25.pdf) | Pascal Lauer, Álvaro Torralba and Daniel Fišer | L |
+| 16:20 | [A Comparison of Cost Partitioning Algorithms for Multiple Sequence Alignment](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_24.pdf) | Mika Skjelnes, Daniel Gnad and Jendrik Seipp | L |
+| 16:35 | [Learning Admissible Heuristics via Cost Partitioning](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_18.pdf) | Hugo Barral, Quentin Cappart, Marie-José Huguet and Sylvie Thiébaux | L |
+| 16:50 | [Automated Planning with Incomplete Open World Models](/files/workshops/hsdip/ICAPS_HSDIP_2026_paper_5.pdf) | Mikhail Soutchanski | L |
+
+<p class="hsdip-note">17:05 — Discussion</p>
 
 <p class="hsdip-note">17:20 — Closing remarks</p>
 
