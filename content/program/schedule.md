@@ -656,6 +656,12 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="session-block">
 <div class="session-header">Talk A: Eaton</div>
 <div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
+
+<div class="paper-item">
+<strong>From Optimization to Scheduling: Practical Lessons in Building Energy Management</strong><br/>
+<em>Scott McDonald</em>
+</div>
+
 </div>
 </div>
 
@@ -663,6 +669,12 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="session-block">
 <div class="session-header">Talk B: Hexaly</div>
 <div class="session-subheader">Breakout Room - Lansdowne</div>
+
+<div class="paper-item">
+<strong>Hexaly, a New Kind of Global Optimization Solver</strong><br/>
+<em>Léa Petit‑Jean Genat</em>
+</div>
+
 </div>
 </div>
 </div>
