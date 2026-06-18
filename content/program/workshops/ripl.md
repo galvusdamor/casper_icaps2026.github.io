@@ -16,16 +16,42 @@ From a planning and scheduling perspective – and for sequential decision makin
 
 Reliability of data-driven artifacts, in particular ML classifier robustness and fairness, is one of the key research issues in other sub-areas of AI for quite some time already. Yet the topic has so far been scarcely addressed at ICAPS, whose focus in planning and learning has so far been mainly on plan-generation performance. The organizers of this workshop believe that this needs to change, as it is important that ICAPS contributes to address the reliable AI challenge. We furthermore believe that ICAPS is in a good position to make such a contribution, as the combination of symbolic and data-driven methods is a key avenue for obtaining reliable AI. The workshop aims at establishing an ICAPS sub-community focusing on this vision.
 
-## Accepted Papers
-- Dominik Drexler, Markus Fritzsche, Farid Musayev, and Simon Ståhlberg – **Prompt, Prove, Patch: The Neuro-Symbolic Loop for General Policy Synthesis**
-- Rolando Fernandez, Caleb Probine, Tyler Lee, Jeffrey Chen, Erez Karpas, Muhammad Arrasy Rahman, Peter Stone, and Ufuk Topcu – **Social Laws for Multi-agent Coordination in Stochastic Environments**
-- Mingyu Hao, Sylvie Thiebaux, and Felipe Trevizan – **Self-Supervised Improvement of Learned Search Guidance**
-- Arnaud Lequen – **Learning Interpretable Classifiers for PDDL Planning**
-- Mariam Musavi, Johannes K. Fichte, and Daniel Gnad – **Learning Object Priorities for Partial Grounding**
-- Farid Musayev, Dominik Drexler, Daniel Gnad, and Jendrik Seipp – **A Comparison of Sampling Strategies for Learning Policies**
-- Windy Phung, Arnaud Lequen, Dominik Drexler, and Jendrik Seipp – **LLM-Evolved Pattern Generators for Optimal Classical Planning**
-- Marcel Schubert and Daniel Höller – **Safety Verification of Additive Tree Ensemble Policies via Symbolic Search**
+---
 
+## Schedule (Preliminary) -- June 29, Room 6
+
+- Technical talks will be 15 minutes + 5 minutes for discussion
+
+**9:00 - 10:00** Invited Talk
+- Welcome and Open Remarks
+- Invited Talk
+
+**10:00 - 10:30** Session 1 -- Multi-Agent Coordination under Uncertainty
+- Rolando Fernandez, Caleb Probine, Tyler Lee, Jeffrey Chen, Erez Karpas, Muhammad Arrasy Rahman, Peter Stone, and Ufuk Topcu – **Social Laws for Multi-agent Coordination in Stochastic Environments** [(bibtex)](/files/workshops/ripl/FernandezRIPL26.bib)
+
+**10:30 - 10:50 Coffee Break**
+
+**10:50 - 12:30** Session 2 -- Neuro-Symbolic Policies and Their Verification
+- Dominik Drexler, Markus Fritzsche, Farid Musayev, and Simon Ståhlberg – **Prompt, Prove, Patch: The Neuro-Symbolic Loop for General Policy Synthesis** [(bibtex)](/files/workshops/ripl/DrexlerRIPL26.bib)
+- Farid Musayev, Dominik Drexler, Daniel Gnad, and Jendrik Seipp – **A Comparison of Sampling Strategies for Learning Policies** [(bibtex)](/files/workshops/ripl/MusayevRIPL26.bib)
+- Victor Scherer Putrich, Tim Nico Bauerschmidt, Chaahat Jain, Songtuan Lin, Joerg Hoffmann, and Isabel Valera – **Formula Neural Networks as Action Policies in Safety-Critical Planning: An Empirical Evaluation** [(bibtex)](/files/workshops/ripl/PutrichRIPL26.bib) (SoCS 2026 paper)
+- Marcel Schubert and Daniel Höller – **Safety Verification of Additive Tree Ensemble Policies via Symbolic Search** [(bibtex)](/files/workshops/ripl/SchubertRIPL26.bib)
+
+**12:30 - 14:00 Lunch Break**
+
+**14:00 - 15:30** Session 3 -- Learning for Classical Planning
+- Mingyu Hao, Sylvie Thiebaux, and Felipe Trevizan – **Self-Supervised Improvement of Learned Search Guidance** [(bibtex)](/files/workshops/ripl/HaoRIPL26.bib)
+- Arnaud Lequen – **Learning Interpretable Classifiers for PDDL Planning** [(bibtex)](/files/workshops/ripl/LequenRIPL26.bib) (ECAI 2024 paper)
+- Mariam Musavi, Johannes K. Fichte, and Daniel Gnad – **Learning Object Priorities for Partial Grounding** [(bibtex)](/files/workshops/ripl/MusaviRIPL26.bib)
+- Windy Phung, Arnaud Lequen, Dominik Drexler, and Jendrik Seipp – **LLM-Evolved Pattern Generators for Optimal Classical Planning** [(bibtex)](/files/workshops/ripl/PhungRIPL26.bib)
+
+**15:30 - 15:50 Coffee Break**
+
+**15:50 - 17:30** Open Discussion
+- Open Discussion
+- Closing Remarks
+
+---
 
 ## Topics of Interest
 
