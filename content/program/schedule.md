@@ -357,7 +357,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 1A: Classical Planning I</div>
-<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert — Chair: Gabriele Röger</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">10:30</strong> &nbsp; <strong>Simplifying Planning Tasks with Fact-Level Relevance Analysis</strong><br/>
@@ -385,7 +385,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 1B: Applications I</div>
-<div class="session-subheader">Breakout Room - Lansdowne</div>
+<div class="session-subheader">Breakout Room - Lansdowne — Chair: Jane Jean Kiam</div>
 
 <div class="paper-item award">
 <strong style="color: #f5821f;">10:30</strong> &nbsp; <strong>GPMS: A Generalized Parallel Machine Scheduling Framework with Rich Temporal and Resource Constraints</strong> <span class="award-badge">Best Student Paper Runner-Up</span><br/>
@@ -456,7 +456,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 2A: Model Learning and Model Repair</div>
-<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert — Chair: Roman Barták</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>Domain Model Acquisition From Binary Traces</strong><br/>
@@ -485,7 +485,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 2B: Multi-Agent Planning</div>
-<div class="session-subheader">Breakout Room - Lansdowne</div>
+<div class="session-subheader">Breakout Room - Lansdowne — Chair: Ariel Felner</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>Risk-Bounded Multi-Agent Visual Navigation via Iterative Risk Allocation</strong><br/>
@@ -557,7 +557,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 3A: Planning under Uncertainty and Non-Determinism (FOND, POMDPs, Abstractions)</div>
-<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert — Chair: Sylvie Thiébaux</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">15:30</strong> &nbsp; <strong>Leveraging the Value of Information in POMDP Planning</strong><br/>
@@ -590,7 +590,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 3B: Routing and Scheduling</div>
-<div class="session-subheader">Breakout Room - Lansdowne</div>
+<div class="session-subheader">Breakout Room - Lansdowne — Chair: J. Christopher Beck</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">15:30</strong> &nbsp; <strong>Scalable Algorithms with Provable Optimality Bounds for the Multiple Watchman Route Problem</strong><br/>
@@ -698,7 +698,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 4A: Classical Planning II and Dynamic Programming</div>
-<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert — Chair: Álvaro Torralba</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">10:30</strong> &nbsp; <strong>Planning as Goal Recognition: Deriving Heuristics from Intention Models</strong><br/>
@@ -726,7 +726,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 4B: Human-Aware Planning</div>
-<div class="session-subheader">Breakout Room - Lansdowne</div>
+<div class="session-subheader">Breakout Room - Lansdowne — Chair: Ron Petrick</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">10:30</strong> &nbsp; <strong>MO-VLA: Preference Adaptation for Vision-Language-Action Models via Multi-Objective Reinforcement Learning</strong><br/>
@@ -797,7 +797,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 5A: Temporal and Numeric Planning</div>
-<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert — Chair: David E. Smith</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>Compiling Expressive Planning With Data Types</strong><br/>
@@ -840,7 +840,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 5B: Learning and Planning</div>
-<div class="session-subheader">Breakout Room - Lansdowne</div>
+<div class="session-subheader">Breakout Room - Lansdowne — Chair: Ayal Taitler</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>Sample-Efficient Hypergradient Estimation for Decentralized Bi-Level Reinforcement Learning</strong><br/>
@@ -906,7 +906,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 6A: Complexity</div>
-<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert — Chair: Gregor Behnke</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">10:30</strong> &nbsp; <strong>Reversibility and Reachability in HTN Planning: Formalization and Computational Complexities in the Totally-Ordered Setting</strong><br/>
@@ -944,7 +944,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 6B: Robotics</div>
-<div class="session-subheader">Breakout Room - Lansdowne</div>
+<div class="session-subheader">Breakout Room - Lansdowne — Chair: Nick Hawes</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">10:30</strong> &nbsp; <strong>Interleaving Scheduling and Motion Planning with Incremental Learning of Symbolic Space-Time Motion Abstractions</strong><br/>
@@ -988,7 +988,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 7A: Agentic AI, Gen AI, and Foundation Models for Planning</div>
-<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert — Chair: Christian Muise</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>Self-Improvement for Fast, High-Quality Plan Generation</strong><br/>
@@ -1031,7 +1031,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 7B: MAPF</div>
-<div class="session-subheader">Breakout Room - Lansdowne</div>
+<div class="session-subheader">Breakout Room - Lansdowne — Chair: Nora Ayanian</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">13:30</strong> &nbsp; <strong>db-LaCAM: Fast and Scalable Multi-Robot Kinodynamic Motion Planning with Discontinuity-Bounded Search and Lightweight MAPF</strong><br/>
@@ -1080,7 +1080,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 8A: Plan Execution under Uncertainty</div>
-<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert</div>
+<div class="session-subheader">Plenary Room - Pembroke &amp; Herbert — Chair: Andrea Micheli</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">15:30</strong> &nbsp; <strong>Incremental LTLf Synthesis</strong><br/>
@@ -1108,7 +1108,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Session 8B: Applications II</div>
-<div class="session-subheader">Breakout Room - Lansdowne</div>
+<div class="session-subheader">Breakout Room - Lansdowne — Chair: Rick Freedman</div>
 
 <div class="paper-item">
 <strong style="color: #f5821f;">15:30</strong> &nbsp; <strong>Fully Packed and Ready to Go: High-Density, Rearrangement-Free, Grid-Based Storage and Retrieval</strong><br/>
