@@ -13,9 +13,74 @@ June 28, 2026
 Melbourne, Victoria, Australia <br/>
 November 10, 2025 -->
 
-<!-- ## Program -->
-
 <!-- The program is available [here](https://haxp-icaps.web.app/2025). -->
+
+## Program
+
+<style>
+.program-table table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 3rem;
+}
+.program-table th,
+.program-table td {
+  padding: 10px 14px;
+  border: 1px solid #e0e0e0;
+  text-align: left;
+  vertical-align: top;
+  line-height: 1.5;
+}
+.program-table thead th {
+  background: #f5f5f5;
+  font-weight: 700;
+}
+.program-table td:first-child,
+.program-table th:first-child {
+  white-space: nowrap;
+  width: 1%;
+}
+.program-table tbody tr:nth-child(even) {
+  background: #fafafa;
+}
+</style>
+
+<div class="program-table">
+
+| Time        | Session                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 9:00–9:15   | Welcome & Opening Remarks                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 9:15–10:15  | [**Keynote 1**](#keynotes)<br>Mohan Sridharan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 10:30–10:50 | Coffee Break                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 10:50–12:30 | **Paper Session 1**<br>**Generalized Execution for Dialogue Planning** — Victoria Armstrong, Christian Muise<br>**Iterative Planning with MUGS Explanations: Exploring the Design Space** — Johannes Schmalz, David Groß, Rebecca Eifler, Julián Méndez, Raimund Dachselt, Stefan Gumhold, Jörg Hoffmann<br>**Generating Explainable Counterfactual Policies through Temporal Logic Queries** — Arnaud Lequen, Clément Legrand-Lixon, Léo Saulières<br>**Constraint based Plan Distance Metric for Operator-Centric Replanning in Multi-Agent Progression Missions** — Emile Siboulet, Arthur Bit-Monnot, Marc-Emmanuel Coupvent des Graviers, Christophe Guettier<br>**Explaining Symbolic Action Policies using Facet Reasoning** — Jennifer Santos, Johannes K Fichte, Daniel Gnad |
+| 13:00–14:30 | Lunch Break                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 14:30–15:30 | [**Keynote 2: When Explanations Need Explanation: The Case of the Semi-Factual**](#keynotes)<br>Mark Keane                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 15:35–15:55 | **Paper Session 2**<br>**An Epistemic Human-Aware Task Planner Integrating Agents Expectations** — Gabriele Sartor, Rachid Alami                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 16:00–16:20 | Coffee Break                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 16:20–17:20 | **Paper Session 2 (Ctn)**<br>**How Hard Is It to Lie in Model Reconciliation?** — Huanghua Sheng, Pascal Bercher, Sarath Sreedharan<br>**Can LLMs Explain Plans Well?** — Philip D. Hopkins, Stylianos Loukas Vasileiou, Sarath Sreedharan<br>**Do You Even Know What I Want? Improving LLMs Ability to Detect Hidden User Intent** — Kelsey Sikes, Sarath Sreedharan                                                                                                                                                                                                                                                                                                                                                                                            |
+| 17:20–18:00 | Fishbowl Discussion                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+</div>
+
+
+
+## Keynotes
+
+### Keynote 1
+
+**Speaker:** Mohan Sridharan
+
+*Title and abstract to be announced.*
+
+### Keynote 2
+
+**Title:** When Explanations Need Explanation: The Case of the Semi-Factual
+
+**Speaker:** Mark Keane
+
+**Abstract:** Traditionally, eXplainable Artificial Intelligence (XAI) casts decision-making scenarios as single-shot interactions, in which a single decision is explained to a user in a single step (end of story). However, sequential decision-making scenarios tend to be much more complicated; plans can require a series of explanations for successive steps or explanations that expand on an initial explanation (e.g., unpacking the details of a planning step). Such scenarios require us to consider multiple explanations and their relationships to one another. Here, I consider semi-factual or "even-if" explanations which often need to be explained further, because they can conflict with user understandings. Semi-factuals explain what changes to input features do not change outcomes (unlike counterfactuals which show the feature-changes that change outcomes). For example, if I apply for a $5k loan and am refused, I could be told "Even if you asked for a $100 loan, you would still be refused". Psychologically, semi-factuals have been shown to weaken people's causal models; in this loan example, a customer's belief that the refusal was due to the loan amount is negated. Accordingly, users can find these explanations counter-intuitive, requiring further explanation (e.g., one that might tell them that their credit-score is more important than loan-amount in the system's decision-making). I show how these "explanations of explanations" can be computed from trend-based analyses of changing feature-importances for different instances and show that people prefer them to single-shot ones. More generally, this work shows some of the complexity that can arise when one moves beyond single-shot scenarios.
+
+
 
 ## Aim and Scope of the Workshop
 
@@ -64,8 +129,6 @@ Stylianos Loukas Vasileiou, Antonio Rago, Maria Vanina Martinez, and William Yeo
 
 
 ## Accepted Papers
-
-*The workshop program will be coming soon.*
 
 - **How Hard Is It to Lie in Model Reconciliation?**  
   Huanghua Sheng, Pascal Bercher, Sarath Sreedharan
